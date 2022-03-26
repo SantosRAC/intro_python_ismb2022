@@ -1,0 +1,1936 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1364.932px" height="746.963px" viewBox="0 0 1364.932 746.963" enable-background="new 0 0 1364.932 746.963"
+	 xml:space="preserve">
+<g id="omicron" display="none">
+	
+		<image display="inline" overflow="visible" enable-background="new    " width="1921" height="355" xlink:href="\\galen.ad.sib.swiss\curation\grp-sprot\www\resources\viralzone\87BD616E.jpg"  transform="matrix(0.9994 0 0 0.9994 -428.8774 672.1357)">
+	</image>
+</g>
+<g id="Layer_7" display="none">
+	
+		<image display="inline" overflow="visible" enable-background="new    " width="1483" height="270" xlink:href="\\galen.ad.sib.swiss\curation\grp-sprot\www\resources\viralzone\87BD6171.jpg"  transform="matrix(0.8739 0 0 0.9988 74.375 827.6348)">
+	</image>
+	<text transform="matrix(1 0 0 1 -28.3457 55.0811)" display="inline" font-family="'MyriadPro-Regular'" font-size="12">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4626106/</text>
+</g>
+<g id="Layer_3">
+	<rect x="98.379" y="92.359" fill="#A6CEE7" width="306" height="23.055"/>
+	<rect x="404.379" y="92.359" fill="#FB9996" width="223" height="23.055"/>
+	<rect x="761.045" y="92.359" fill="#FCBF6F" width="8.334" height="23.055"/>
+	<rect x="761.045" y="171.36" fill="#FCBF6F" width="8.334" height="11.222"/>
+	<rect x="761.045" y="236.612" fill="#FCBF6F" width="8.334" height="11.222"/>
+	<rect x="761.045" y="312.373" fill="#FCBF6F" width="8.334" height="11.222"/>
+	<rect x="761.045" y="407.61" fill="#FCBF6F" width="8.334" height="11.221"/>
+	<rect x="761.045" y="529.943" fill="#FCBF6F" width="8.334" height="11.223"/>
+	<rect x="404.379" y="172.36" fill="#FB9996" width="223" height="10.889"/>
+	<rect x="404.379" y="236.862" fill="#FB9996" width="223" height="10.889"/>
+	<rect x="404.379" y="311.623" fill="#FB9996" width="223" height="12.223"/>
+	<rect x="404.379" y="407.86" fill="#FB9996" width="223" height="11.223"/>
+	<rect x="404.379" y="529.527" fill="#FB9996" width="223" height="11.223"/>
+	<g>
+		<g>
+			<line fill="none" stroke="#898888" stroke-miterlimit="10" x1="769.379" y1="92.359" x2="769.379" y2="98.359"/>
+			
+				<line fill="none" stroke="#898888" stroke-miterlimit="10" stroke-dasharray="12.1614,12.1614" x1="769.379" y1="110.52" x2="769.379" y2="663.862"/>
+			<line fill="none" stroke="#898888" stroke-miterlimit="10" x1="769.379" y1="669.943" x2="769.379" y2="675.943"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 256.3794 110.3867)" font-family="'MyriadPro-Regular'" font-size="15">NTD</text>
+	<text transform="matrix(1 0 0 1 512.3789 109.3867)" font-family="'MyriadPro-Regular'" font-size="15">RBD</text>
+	<rect x="98.379" y="172.36" fill="#A6CEE7" width="306" height="10.222"/>
+	<rect x="98.379" y="236.862" fill="#A6CEE7" width="306" height="12.222"/>
+	<rect x="98.379" y="312.123" fill="#A6CEE7" width="306" height="12.222"/>
+	<rect x="98.379" y="407.86" fill="#A6CEE7" width="306" height="12.222"/>
+	<rect x="98.379" y="529.361" fill="#A6CEE7" width="306" height="12.221"/>
+	<rect x="761.045" y="675.943" fill="#FCBF6F" width="8.334" height="11.223"/>
+	<rect x="404.379" y="675.527" fill="#FB9996" width="223" height="11.223"/>
+	<rect x="98.379" y="675.361" fill="#A6CEE7" width="306" height="12.221"/>
+</g>
+<g id="Layer_8">
+	<text transform="matrix(1 0 0 1 21.7002 178.6279)" font-family="'MyriadPro-Regular'" font-size="15">Alpha</text>
+	<text transform="matrix(1 0 0 1 21.7002 196.6279)" font-family="'MyriadPro-Regular'" font-size="15">(B.1.1.7)</text>
+	<text transform="matrix(1 0 0 1 21.7002 246.6279)" font-family="'MyriadPro-Regular'" font-size="15">Beta</text>
+	<text transform="matrix(1 0 0 1 21.7002 264.6279)" font-family="'MyriadPro-Regular'" font-size="15">(B.1.351)</text>
+	<text transform="matrix(1 0 0 1 21.7002 319.5537)" font-family="'MyriadPro-Regular'" font-size="15">Gamma</text>
+	<text transform="matrix(1 0 0 1 21.7002 337.5537)" font-family="'MyriadPro-Regular'" font-size="15">(P1)</text>
+	<text transform="matrix(1 0 0 1 21.7002 417.29)" font-family="'MyriadPro-Regular'" font-size="15">Delta</text>
+	<text transform="matrix(1 0 0 1 21.7002 435.29)" font-family="'MyriadPro-Regular'" font-size="15">(B.1.617.2)</text>
+	<text transform="matrix(1 0 0 1 9.001 541.2793)" font-family="'MyriadPro-Regular'" font-size="15">Omicron </text>
+	<text transform="matrix(1 0 0 1 9.001 559.2793)" font-family="'MyriadPro-Regular'" font-size="15">(BA.1)</text>
+	<text transform="matrix(1 0 0 1 9.001 687.2793)" font-family="'MyriadPro-Regular'" font-size="15">Omicron</text>
+	<text transform="matrix(1 0 0 1 9.001 705.2793)" font-family="'MyriadPro-Regular'" font-size="15">(BA.2)</text>
+	<text transform="matrix(1 0 0 1 624.5005 31.7695)" font-family="'MyriadPro-Bold'" font-size="18">Variants of Concern</text>
+	<text transform="matrix(1 0 0 1 680.1377 53.3701)" font-family="'MyriadPro-Bold'" font-size="18">(VOC)</text>
+</g>
+<g id="disordered" display="none">
+	<rect x="85.379" y="160.587" display="inline" fill="#97EFC3" width="26" height="585.543"/>
+	<rect x="151.379" y="163.514" display="inline" fill="#97EFC3" width="14" height="582.564"/>
+	<rect x="226.379" y="159.732" display="inline" fill="#97EFC3" width="22" height="587.534"/>
+	<rect x="257.379" y="158.028" display="inline" fill="#97EFC3" width="13" height="587.486"/>
+	<rect x="330.379" y="158.028" display="inline" fill="#97EFC3" width="20" height="587.486"/>
+	<rect x="403.379" y="158.028" display="inline" fill="#97EFC3" width="17" height="587.486"/>
+	<rect x="539.379" y="158.028" display="inline" fill="#97EFC3" width="36" height="587.486"/>
+	<rect x="603.379" y="158.028" display="inline" fill="#97EFC3" width="22" height="587.486"/>
+	<rect x="705.379" y="158.028" display="inline" fill="#97EFC3" width="20" height="587.486"/>
+	<rect x="757.379" y="158.028" display="inline" fill="#97EFC3" width="15" height="587.486"/>
+	<rect x="912.379" y="158.028" display="inline" fill="#97EFC3" width="26" height="546.966"/>
+	<rect x="1231.379" y="158.028" display="inline" fill="#97EFC3" width="127" height="546.966"/>
+	
+		<text transform="matrix(1.4599 0 0 1 143.8789 156.9307)" display="inline" font-family="'MyriadPro-Regular'" font-size="10.2748">67-80</text>
+	
+		<text transform="matrix(1.4599 0 0 1 198.5439 156.9307)" display="inline" font-family="'MyriadPro-Regular'" font-size="10.2748">142-164</text>
+	
+		<text transform="matrix(1.4599 0 0 1 253.8784 156.9307)" display="inline" font-family="'MyriadPro-Regular'" font-size="10.2748">173-185</text>
+	
+		<text transform="matrix(1.4599 0 0 1 325.2109 156.9307)" display="inline" font-family="'MyriadPro-Regular'" font-size="10.2748">246-262</text>
+	
+		<text transform="matrix(1.4599 0 0 1 542.5449 156.9307)" display="inline" font-family="'MyriadPro-Regular'" font-size="10.2748">455-490</text>
+	
+		<text transform="matrix(1.4599 0 0 1 595.8789 156.9307)" display="inline" font-family="'MyriadPro-Regular'" font-size="10.2748">519-541</text>
+	<text transform="matrix(1.4599 0 0 1 689.877 156.9307)" display="inline" font-family="'MyriadPro-Regular'" font-size="10.2748">621-640</text>
+	
+		<text transform="matrix(1.4599 0 0 1 751.8789 156.9307)" display="inline" font-family="'MyriadPro-Regular'" font-size="10.2748">673-687</text>
+	
+		<text transform="matrix(1.4599 0 0 1 901.7129 156.9307)" display="inline" font-family="'MyriadPro-Regular'" font-size="10.2748">828-853</text>
+	
+		<text transform="matrix(1.4599 0 0 1 1280.8789 156.9307)" display="inline" font-family="'MyriadPro-Regular'" font-size="10.2748">1147-1273</text>
+	
+		<text transform="matrix(1.4599 0 0 1 393.8779 156.9307)" display="inline" font-family="'MyriadPro-Regular'" font-size="10.2748">319-335</text>
+	<text transform="matrix(1.4599 0 0 1 89.5459 156.9307)" display="inline" font-family="'MyriadPro-Regular'" font-size="10.2748">1-26</text>
+	<text transform="matrix(1.4599 0 0 1 9.2036 157.6162)" display="inline" font-family="'MyriadPro-Regular'" font-size="10.2748">Disordered</text>
+</g>
+<g id="Layer_4">
+	<rect x="919.379" y="91.604" opacity="0.5" fill="#FFBA0D" enable-background="new    " width="21" height="22.506"/>
+	<rect x="900.379" y="91.604" opacity="0.5" fill="#FFBA0D" enable-background="new    " width="18" height="23.174"/>
+	<rect x="919.379" y="171.937" opacity="0.5" fill="#FFBA0D" enable-background="new    " width="21" height="11.258"/>
+	<rect x="900.379" y="171.937" opacity="0.5" fill="#FFBA0D" enable-background="new    " width="18" height="10.755"/>
+	<rect x="919.379" y="236.928" opacity="0.5" fill="#FFBA0D" enable-background="new    " width="21" height="11.256"/>
+	<rect x="900.379" y="236.928" opacity="0.5" fill="#FFBA0D" enable-background="new    " width="18" height="10.754"/>
+	<rect x="919.379" y="312.355" opacity="0.5" fill="#FFBA0D" enable-background="new    " width="21" height="11.258"/>
+	<rect x="900.379" y="312.355" opacity="0.5" fill="#FFBA0D" enable-background="new    " width="18" height="12.255"/>
+	<rect x="919.379" y="407.343" opacity="0.5" fill="#FFBA0D" enable-background="new    " width="21" height="12.008"/>
+	<rect x="900.379" y="407.343" opacity="0.5" fill="#FFBA0D" enable-background="new    " width="18" height="12.254"/>
+	<rect x="919.379" y="529.843" opacity="0.5" fill="#FFBA0D" enable-background="new    " width="21" height="12.008"/>
+	<rect x="900.379" y="529.843" opacity="0.5" fill="#FFBA0D" enable-background="new    " width="18" height="12.254"/>
+	<rect x="1247.379" y="91.936" opacity="0.5" fill="#A0EA78" enable-background="new    " width="40" height="21.692"/>
+	<rect x="1298.379" y="91.936" opacity="0.5" fill="#52DDE8" enable-background="new    " width="21" height="21.692"/>
+	<rect x="1004.379" y="91.936" opacity="0.5" fill="#A0EA78" enable-background="new    " width="51" height="21.692"/>
+	<rect x="1247.379" y="172.603" opacity="0.5" fill="#A0EA78" enable-background="new    " width="40" height="9.692"/>
+	<rect x="1298.379" y="172.603" opacity="0.5" fill="#52DDE8" enable-background="new    " width="21" height="9.692"/>
+	<rect x="1004.379" y="172.603" opacity="0.5" fill="#A0EA78" enable-background="new    " width="51" height="9.692"/>
+	<rect x="1247.379" y="236.624" opacity="0.5" fill="#A0EA78" enable-background="new    " width="40" height="11.322"/>
+	<rect x="1298.379" y="236.624" opacity="0.5" fill="#52DDE8" enable-background="new    " width="21" height="11.322"/>
+	<rect x="1004.379" y="236.624" opacity="0.5" fill="#A0EA78" enable-background="new    " width="51" height="11.322"/>
+	<rect x="1247.379" y="312.716" opacity="0.5" fill="#A0EA78" enable-background="new    " width="40" height="11.324"/>
+	<rect x="1298.379" y="312.716" opacity="0.5" fill="#52DDE8" enable-background="new    " width="21" height="11.324"/>
+	<rect x="1004.379" y="312.716" opacity="0.5" fill="#A0EA78" enable-background="new    " width="51" height="11.324"/>
+	<rect x="1247.379" y="407.955" opacity="0.5" fill="#A0EA78" enable-background="new    " width="40" height="11.323"/>
+	<rect x="1298.379" y="407.955" opacity="0.5" fill="#52DDE8" enable-background="new    " width="21" height="11.323"/>
+	<rect x="1004.379" y="407.955" opacity="0.5" fill="#A0EA78" enable-background="new    " width="51" height="11.323"/>
+	<rect x="1247.379" y="530.56" opacity="0.5" fill="#A0EA78" enable-background="new    " width="40" height="11.322"/>
+	<rect x="1298.379" y="530.56" opacity="0.5" fill="#52DDE8" enable-background="new    " width="21" height="11.322"/>
+	<rect x="1004.379" y="530.56" opacity="0.5" fill="#A0EA78" enable-background="new    " width="51" height="11.322"/>
+	<rect x="919.379" y="675.843" opacity="0.5" fill="#FFBA0D" enable-background="new    " width="21" height="12.008"/>
+	<rect x="900.379" y="675.843" opacity="0.5" fill="#FFBA0D" enable-background="new    " width="18" height="12.254"/>
+	<rect x="1247.379" y="676.56" opacity="0.5" fill="#A0EA78" enable-background="new    " width="40" height="11.322"/>
+	<rect x="1298.379" y="676.56" opacity="0.5" fill="#52DDE8" enable-background="new    " width="21" height="11.322"/>
+	<rect x="1004.379" y="676.56" opacity="0.5" fill="#A0EA78" enable-background="new    " width="51" height="11.322"/>
+	<g>
+		<text transform="matrix(1 0 0 1 234.7969 453.5557)" font-family="'MyriadPro-Regular'" font-size="15">(Y145H)</text>
+	</g>
+	
+		<line fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" x1="226.379" y1="424.984" x2="201.879" y2="441.888"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" x1="229.379" y1="424.984" x2="256.629" y2="441.388"/>
+</g>
+<rect x="83.379" y="236.462" fill="none" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="241" height="11.927"/>
+<rect x="328.379" y="236.462" fill="none" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="1029" height="11.927"/>
+<rect x="83.379" y="312.223" fill="none" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="1273" height="11.927"/>
+<rect x="111.129" y="674.924" fill="none" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="1245.25" height="11.927"/>
+<rect x="84.379" y="674.924" fill="none" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="23.168" height="11.927"/>
+<rect x="83.379" y="91.742" fill="none" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="1273" height="22.362"/>
+<rect x="83.379" y="407.461" fill="none" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="156" height="11.927"/>
+<rect x="242.379" y="407.461" fill="none" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="1115" height="11.927"/>
+<g>
+	<g>
+		<path d="M151.492,172.181v10.152H84.267v-10.152H151.492 M152.379,171.294h-69v11.926h69V171.294L152.379,171.294z"/>
+	</g>
+	<g>
+		<path d="M226.492,172.181v10.152h-71.225v-10.152H226.492 M227.379,171.294h-73v11.926h73V171.294L227.379,171.294z"/>
+	</g>
+	<g>
+		<path d="M1355.492,172.181v10.152H229.267v-10.152H1355.492 M1356.379,171.294h-1128v11.926h1128V171.294L1356.379,171.294z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M151.492,530.681v10.152H84.267v-10.152H151.492 M152.379,529.794h-69v11.928h69V529.794L152.379,529.794z"/>
+	</g>
+	<g>
+		<path d="M226.492,530.681v10.152h-71.225v-10.152H226.492 M227.379,529.794h-73v11.928h73V529.794L227.379,529.794z"/>
+	</g>
+	<g>
+		<path d="M1355.492,530.681v10.152H229.267v-10.152H1355.492 M1356.379,529.794h-1128v11.928h1128V529.794L1356.379,529.794z"/>
+	</g>
+</g>
+<g>
+	<rect x="228.379" y="165.765" fill="#FFFFFF" width="1" height="5.195"/>
+	<polygon points="229.379,165.765 228.379,165.765 228.379,170.96 229.379,170.96 	"/>
+</g>
+<g>
+	<rect x="153.879" y="165.765" fill="#FFFFFF" width="1" height="5.195"/>
+	<polygon points="154.879,165.765 153.879,165.765 153.879,170.96 154.879,170.96 	"/>
+</g>
+<g>
+	<rect x="102.379" y="248.268" fill="#FFFFFF" width="1" height="5.195"/>
+	<polygon points="103.379,248.268 102.379,248.268 102.379,253.463 103.379,253.463 	"/>
+</g>
+<g>
+	<rect x="102.379" y="307.029" fill="#FFFFFF" width="1" height="5.194"/>
+	<polygon points="103.379,307.029 102.379,307.029 102.379,312.223 103.379,312.223 	"/>
+</g>
+<g>
+	<rect x="104.379" y="297.65" fill="#FFFFFF" width="1" height="14.404"/>
+	<polygon points="105.379,297.65 104.379,297.65 104.379,312.054 105.379,312.054 	"/>
+</g>
+<g>
+	<rect x="110.379" y="307.029" fill="#FFFFFF" width="1" height="5.194"/>
+	<polygon points="111.379,307.029 110.379,307.029 110.379,312.223 111.379,312.223 	"/>
+</g>
+<g>
+	<rect x="222.379" y="307.029" fill="#FFFFFF" width="1" height="5.194"/>
+	<polygon points="223.379,307.029 222.379,307.029 222.379,312.223 223.379,312.223 	"/>
+</g>
+<g>
+	<rect x="274.379" y="307.029" fill="#FFFFFF" width="1" height="5.194"/>
+	<polygon points="275.379,307.029 274.379,307.029 274.379,312.223 275.379,312.223 	"/>
+</g>
+<g>
+	<rect x="501.379" y="306.537" fill="#FFFFFF" width="1" height="17.541"/>
+	<polygon points="502.379,306.537 501.379,306.537 501.379,324.078 502.379,324.078 	"/>
+</g>
+<g>
+	<rect x="164.379" y="229.81" fill="#FFFFFF" width="1" height="18.61"/>
+	<polygon points="165.379,229.81 164.379,229.81 164.379,248.42 165.379,248.42 	"/>
+</g>
+<g>
+	<rect x="299.379" y="229.81" fill="#FFFFFF" width="1" height="18.61"/>
+	<polygon points="300.379,229.81 299.379,229.81 299.379,248.42 300.379,248.42 	"/>
+</g>
+<g>
+	<rect x="326.379" y="248.268" fill="#FFFFFF" width="1" height="5.194"/>
+	<polygon points="327.379,248.268 326.379,248.268 326.379,253.462 327.379,253.462 	"/>
+</g>
+<g>
+	<rect x="501.379" y="229.209" fill="#FFFFFF" width="1" height="19.645"/>
+	<polygon points="502.379,229.209 501.379,229.209 501.379,248.854 502.379,248.854 	"/>
+</g>
+<g>
+	<rect x="568.379" y="229.209" fill="#FFFFFF" width="1" height="19.645"/>
+	<polygon points="569.379,229.209 568.379,229.209 568.379,248.854 569.379,248.854 	"/>
+</g>
+<g>
+	<rect x="585.379" y="229.209" fill="#FFFFFF" width="1" height="19.645"/>
+	<polygon points="586.379,229.209 585.379,229.209 585.379,248.854 586.379,248.854 	"/>
+</g>
+<g>
+	<rect x="585.379" y="165.917" fill="#FFFFFF" width="1" height="16.559"/>
+	<polygon points="586.379,165.917 585.379,165.917 585.379,182.476 586.379,182.476 	"/>
+</g>
+<g>
+	<rect x="644.379" y="165.917" fill="#FFFFFF" width="1" height="16.559"/>
+	<polygon points="645.379,165.917 644.379,165.917 644.379,182.476 645.379,182.476 	"/>
+</g>
+<g>
+	<rect x="698.379" y="165.917" fill="#FFFFFF" width="1" height="16.559"/>
+	<polygon points="699.379,165.917 698.379,165.917 698.379,182.476 699.379,182.476 	"/>
+</g>
+<g>
+	<rect x="765.379" y="165.917" fill="#FFFFFF" width="1" height="16.559"/>
+	<polygon points="766.379,165.917 765.379,165.917 765.379,182.476 766.379,182.476 	"/>
+</g>
+<g>
+	<rect x="800.379" y="165.917" fill="#FFFFFF" width="1" height="16.559"/>
+	<polygon points="801.379,165.917 800.379,165.917 800.379,182.476 801.379,182.476 	"/>
+</g>
+<g>
+	<rect x="1066.379" y="165.921" fill="#FFFFFF" width="1" height="16.883"/>
+	<polygon points="1067.379,165.921 1066.379,165.921 1066.379,182.804 1067.379,182.804 	"/>
+</g>
+<g>
+	<rect x="1202.379" y="165.921" fill="#FFFFFF" width="1" height="16.883"/>
+	<polygon points="1203.379,165.921 1202.379,165.921 1202.379,182.804 1203.379,182.804 	"/>
+</g>
+<text transform="matrix(1 0 0 1 93.8794 261.7207)" font-family="'MyriadPro-Regular'" font-size="15">(L18F)</text>
+<text transform="matrix(1 0 0 1 73.8701 307.0254)" font-family="'MyriadPro-Regular'" font-size="15">L18F</text>
+<text transform="matrix(1 0 0 1 96.2124 294.1465)" font-family="'MyriadPro-Regular'" font-size="15">T20N</text>
+<text transform="matrix(1 0 0 1 96.2124 396.8818)" font-family="'MyriadPro-Regular'" font-size="15">T19R</text>
+<text transform="matrix(1 0 0 1 148.2095 436.8818)" font-family="'MyriadPro-Regular'" font-size="15">(T95I)</text>
+<text transform="matrix(1 0 0 1 176.7109 453.5479)" font-family="'MyriadPro-Regular'" font-size="15">(G142D)</text>
+<text transform="matrix(1 0 0 1 286.2114 436.8818)" font-family="'MyriadPro-Regular'" font-size="15">(A222V)</text>
+<text transform="matrix(1 0 0 1 337.8794 436.8818)" font-family="'MyriadPro-Regular'" font-size="15">(W258L)</text>
+<text transform="matrix(1 0 0 1 110.2124 306.0244)" font-family="'MyriadPro-Regular'" font-size="15">P26S</text>
+<text transform="matrix(1 0 0 1 208.8794 306.0244)" font-family="'MyriadPro-Regular'" font-size="15">D138Y</text>
+<text transform="matrix(1 0 0 1 261.8794 306.0244)" font-family="'MyriadPro-Regular'" font-size="15">R190S</text>
+<text transform="matrix(1 0 0 1 153.8799 225.7207)" font-family="'MyriadPro-Regular'" font-size="15">D80A</text>
+<text transform="matrix(1 0 0 1 287.3799 225.7207)" font-family="'MyriadPro-Regular'" font-size="15">D215G</text>
+<text transform="matrix(1 0 0 1 308.6294 261.7207)" font-family="'MyriadPro-Regular'" font-size="15">(del 241-243)</text>
+<text transform="matrix(1 0 0 1 480.1304 224.4355)" font-family="'MyriadPro-Regular'" font-size="15">K417N</text>
+<text transform="matrix(1 0 0 1 478.3286 436.8818)" font-family="'MyriadPro-Regular'" font-size="15">(K417N)</text>
+<text transform="matrix(1 0 0 1 448.8535 454.8818)" font-family="'MyriadPro-Regular'" font-size="15">[sublineage AY.1]</text>
+<text transform="matrix(1 0 0 1 230.1206 468.8818)" font-family="'MyriadPro-Regular'" font-size="15">[sublineage AY.4.2]</text>
+<text transform="matrix(1 0 0 1 476.1299 304.8486)" font-family="'MyriadPro-Regular'" font-size="15">K417N/T</text>
+<g>
+	<rect x="501.379" y="524.914" fill="#FFFFFF" width="1" height="16.16"/>
+	<polygon points="502.379,524.914 501.379,524.914 501.379,541.074 502.379,541.074 	"/>
+</g>
+<g>
+	<rect x="524.379" y="526.156" fill="#FFFFFF" width="1" height="15.078"/>
+	<polygon points="525.379,526.156 524.379,526.156 524.379,541.234 525.379,541.234 	"/>
+</g>
+<text transform="matrix(1 0 0 1 469.1294 522.5859)" font-family="'MyriadPro-Regular'" font-size="15">K417N</text>
+<text transform="matrix(1 0 0 1 518.1299 522.585)" font-family="'MyriadPro-Regular'" font-size="15">N440K</text>
+<text transform="matrix(1 0 0 1 524.6299 592.5879)" font-family="'MyriadPro-Regular'" font-size="15">S477N</text>
+<text transform="matrix(1 0 0 1 515.6299 559.3887)" font-family="'MyriadPro-Regular'" font-size="15">G446S</text>
+<text transform="matrix(1 0 0 1 574.6299 592.5879)" font-family="'MyriadPro-Regular'" font-size="15">Q493R</text>
+<text transform="matrix(1 0 0 1 579.6294 574.2227)" font-family="'MyriadPro-Regular'" font-size="15">G496S</text>
+<text transform="matrix(1 0 0 1 582.6299 559.3887)" font-family="'MyriadPro-Regular'" font-size="15">Q498R</text>
+<text transform="matrix(1 0 0 1 537.1294 224.4355)" font-family="'MyriadPro-Regular'" font-size="15">E484K</text>
+<text transform="matrix(1 0 0 1 579.6304 224.4355)" font-family="'MyriadPro-Regular'" font-size="15">N501Y</text>
+<g>
+	<rect x="568.379" y="306.067" fill="#FFFFFF" width="1" height="18.368"/>
+	<polygon points="569.379,306.067 568.379,306.067 568.379,324.435 569.379,324.435 	"/>
+</g>
+<g>
+	<rect x="585.379" y="306.067" fill="#FFFFFF" width="1" height="18.368"/>
+	<polygon points="586.379,306.067 585.379,306.067 585.379,324.435 586.379,324.435 	"/>
+</g>
+<text transform="matrix(1 0 0 1 539.1294 303.502)" font-family="'MyriadPro-Regular'" font-size="15">E484K</text>
+<text transform="matrix(1 0 0 1 582.6309 304.502)" font-family="'MyriadPro-Regular'" font-size="15">N501Y</text>
+<text transform="matrix(1 0 0 1 138.2124 162.8877)" font-family="'MyriadPro-Regular'" font-size="15">del 69-70</text>
+<text transform="matrix(1 0 0 1 231.5454 522.8789)" font-family="'MyriadPro-Regular'" font-size="15">del 143-145</text>
+<text transform="matrix(1 0 0 1 219.8794 162.8877)" font-family="'MyriadPro-Regular'" font-size="15">del144</text>
+<text transform="matrix(1 0 0 1 572.8794 156.3877)" font-family="'MyriadPro-Regular'" font-size="15">N501Y</text>
+<text transform="matrix(1 0 0 1 633.2134 156.3877)" font-family="'MyriadPro-Regular'" font-size="15">A570D</text>
+<text transform="matrix(1 0 0 1 686.2139 156.3877)" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+<g>
+	<rect x="698.379" y="229.209" fill="#FFFFFF" width="1" height="19.645"/>
+	<polygon points="699.379,229.209 698.379,229.209 698.379,248.854 699.379,248.854 	"/>
+</g>
+<g>
+	<rect x="785.379" y="229.209" fill="#FFFFFF" width="1" height="19.645"/>
+	<polygon points="786.379,229.209 785.379,229.209 785.379,248.854 786.379,248.854 	"/>
+</g>
+<text transform="matrix(1 0 0 1 686.2139 224.4355)" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+<g>
+	<rect x="698.379" y="306.537" fill="#FFFFFF" width="1" height="18.113"/>
+	<polygon points="699.379,306.537 698.379,306.537 698.379,324.65 699.379,324.65 	"/>
+</g>
+<g>
+	<rect x="739.379" y="306.537" fill="#FFFFFF" width="1" height="17.541"/>
+	<polygon points="740.379,306.537 739.379,306.537 739.379,324.078 740.379,324.078 	"/>
+</g>
+<g>
+	<rect x="1111.379" y="307.184" fill="#FFFFFF" width="1" height="16.884"/>
+	<polygon points="1112.379,307.184 1111.379,307.184 1111.379,324.068 1112.379,324.068 	"/>
+</g>
+<g>
+	<rect x="1260.379" y="307.184" fill="#FFFFFF" width="1" height="16.884"/>
+	<polygon points="1261.379,307.184 1260.379,307.184 1260.379,324.068 1261.379,324.068 	"/>
+</g>
+<text transform="matrix(1 0 0 1 686.2139 297.6465)" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+<g>
+	<rect x="568.379" y="491.875" fill="#FFFFFF" width="1" height="50.264"/>
+	<polygon points="569.379,491.875 568.379,491.875 568.379,542.138 569.379,542.138 	"/>
+</g>
+<g>
+	<rect x="577.379" y="529.9" fill="#FFFFFF" width="1" height="49.893"/>
+	<polygon points="578.379,529.9 577.379,529.9 577.379,579.792 578.379,579.792 	"/>
+</g>
+<g>
+	<rect x="580.379" y="529.9" fill="#FFFFFF" width="1" height="31.487"/>
+	<polygon points="581.379,529.9 580.379,529.9 580.379,561.388 581.379,561.388 	"/>
+</g>
+<g>
+	<rect x="582.379" y="529.9" fill="#FFFFFF" width="1" height="15.846"/>
+	<polygon points="583.379,529.9 582.379,529.9 582.379,545.746 583.379,545.746 	"/>
+</g>
+<text transform="matrix(1 0 0 1 568.7129 491.625)" font-family="'MyriadPro-Regular'" font-size="15">E484A</text>
+<text transform="matrix(1 0 0 1 581.4629 507.375)" font-family="'MyriadPro-Regular'" font-size="15">N501Y</text>
+<text transform="matrix(1 0 0 1 585.9624 524.877)" font-family="'MyriadPro-Regular'" font-size="15">Y505H</text>
+<text transform="matrix(1 0 0 1 630.4624 524.877)" font-family="'MyriadPro-Regular'" font-size="15">T547K</text>
+<g>
+	<rect x="153.879" y="519.755" fill="#FFFFFF" width="1" height="11.957"/>
+	<polygon points="154.879,519.755 153.879,519.755 153.879,531.712 154.879,531.712 	"/>
+</g>
+<text transform="matrix(1 0 0 1 153.2134 519.8809)" font-family="'MyriadPro-Regular'" font-size="15">del 69-70</text>
+<g>
+	<rect x="151.181" y="506.378" fill="#FFFFFF" width="1.063" height="34.51"/>
+	<polygon points="152.244,506.378 151.181,506.378 151.181,540.888 152.244,540.888 	"/>
+</g>
+<text transform="matrix(1 0 0 1 148.5444 505.043)" font-family="'MyriadPro-Regular'" font-size="15">A67V</text>
+<g>
+	<rect x="179.379" y="530.042" fill="#FFFFFF" width="1" height="14.707"/>
+	<polygon points="180.379,530.042 179.379,530.042 179.379,544.75 180.379,544.75 	"/>
+</g>
+<text transform="matrix(1 0 0 1 162.8789 561.377)" font-family="'MyriadPro-Regular'" font-size="15">T95I</text>
+<text transform="matrix(1 0 0 1 218.8784 506.041)" font-family="'MyriadPro-Regular'" font-size="15">G142D</text>
+<g>
+	<rect x="226.379" y="516.203" fill="#FFFFFF" width="1" height="13.768"/>
+	<polygon points="227.379,516.203 226.379,516.203 226.379,529.97 227.379,529.97 	"/>
+</g>
+<g>
+	<rect x="227.379" y="516.203" fill="#FFFFFF" width="1" height="13.768"/>
+	<polygon points="228.379,516.203 227.379,516.203 227.379,529.97 228.379,529.97 	"/>
+</g>
+<g>
+	<rect x="698.379" y="525.892" fill="#FFFFFF" width="1" height="15.195"/>
+	<polygon points="699.379,525.892 698.379,525.892 698.379,541.087 699.379,541.087 	"/>
+</g>
+<g>
+	<rect x="848.379" y="525.892" fill="#FFFFFF" width="1" height="15.195"/>
+	<polygon points="849.379,525.892 848.379,525.892 848.379,541.087 849.379,541.087 	"/>
+</g>
+<g>
+	<rect x="880.379" y="525.892" fill="#FFFFFF" width="1" height="15.195"/>
+	<polygon points="881.379,525.892 880.379,525.892 880.379,541.087 881.379,541.087 	"/>
+</g>
+<g>
+	<rect x="940.379" y="525.892" fill="#FFFFFF" width="1" height="15.195"/>
+	<polygon points="941.379,525.892 940.379,525.892 940.379,541.087 941.379,541.087 	"/>
+</g>
+<g>
+	<rect x="1038.379" y="525.892" fill="#FFFFFF" width="1" height="15.195"/>
+	<polygon points="1039.379,525.892 1038.379,525.892 1038.379,541.087 1039.379,541.087 	"/>
+</g>
+<g>
+	<rect x="1053.379" y="530.892" fill="#FFFFFF" width="1" height="15.195"/>
+	<polygon points="1054.379,530.892 1053.379,530.892 1053.379,546.087 1054.379,546.087 	"/>
+</g>
+<g>
+	<rect x="1065.379" y="525.892" fill="#FFFFFF" width="1" height="15.195"/>
+	<polygon points="1066.379,525.892 1065.379,525.892 1065.379,541.087 1066.379,541.087 	"/>
+</g>
+<g>
+	<rect x="739.379" y="513.388" fill="#FFFFFF" width="1" height="27.699"/>
+	<polygon points="740.379,513.388 739.379,513.388 739.379,541.087 740.379,541.087 	"/>
+</g>
+<g>
+	<rect x="765.379" y="525.892" fill="#FFFFFF" width="1" height="15.195"/>
+	<polygon points="766.379,525.892 765.379,525.892 765.379,541.087 766.379,541.087 	"/>
+</g>
+<g>
+	<rect x="763.379" y="529.892" fill="#FFFFFF" width="1" height="15.195"/>
+	<polygon points="764.379,529.892 763.379,529.892 763.379,545.087 764.379,545.087 	"/>
+</g>
+<g>
+	<rect x="423.379" y="525.896" fill="#FFFFFF" width="1" height="15.521"/>
+	<polygon points="424.379,525.896 423.379,525.896 423.379,541.417 424.379,541.417 	"/>
+</g>
+<g>
+	<rect x="455.379" y="530.384" fill="#FFFFFF" width="1" height="17.404"/>
+	<polygon points="456.379,530.384 455.379,530.384 455.379,547.789 456.379,547.789 	"/>
+</g>
+<g>
+	<rect x="457.379" y="530.384" fill="#FFFFFF" width="1" height="32.49"/>
+	<polygon points="458.379,530.384 457.379,530.384 457.379,562.875 458.379,562.875 	"/>
+</g>
+<g>
+	<rect x="459.379" y="530.384" fill="#FFFFFF" width="1" height="17.404"/>
+	<polygon points="460.379,530.384 459.379,530.384 459.379,547.789 460.379,547.789 	"/>
+</g>
+<g>
+	<rect x="530.379" y="530.068" fill="#FFFFFF" width="1" height="18.703"/>
+	<polygon points="531.379,530.068 530.379,530.068 530.379,548.771 531.379,548.771 	"/>
+</g>
+<g>
+	<rect x="561.379" y="530.475" fill="#FFFFFF" width="1" height="49.913"/>
+	<polygon points="562.379,530.475 561.379,530.475 561.379,580.388 562.379,580.388 	"/>
+</g>
+<g>
+	<rect x="295.379" y="529.914" fill="#FFFFFF" width="1" height="16.883"/>
+	<polygon points="296.379,529.914 295.379,529.914 295.379,546.796 296.379,546.796 	"/>
+</g>
+<g>
+	<rect x="296.379" y="529.914" fill="#FFFFFF" width="1" height="18.067"/>
+	<polygon points="297.379,529.914 296.379,529.914 296.379,547.981 297.379,547.981 	"/>
+</g>
+<text transform="matrix(1 0 0 1 679.2114 522.377)" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+<text transform="matrix(1 0 0 1 725.2119 505.375)" font-family="'MyriadPro-Regular'" font-size="15">H655Y</text>
+<text transform="matrix(1 0 0 1 755.7119 523.627)" font-family="'MyriadPro-Regular'" font-size="15">P681H</text>
+<text transform="matrix(1 0 0 1 822.3779 523.627)" font-family="'MyriadPro-Regular'" font-size="15">N764K</text>
+<text transform="matrix(1 0 0 1 871.0439 523.627)" font-family="'MyriadPro-Regular'" font-size="15">D796Y</text>
+<text transform="matrix(1 0 0 1 921.0439 523.627)" font-family="'MyriadPro-Regular'" font-size="15">N856K</text>
+<text transform="matrix(1 0 0 1 1003.71 523.627)" font-family="'MyriadPro-Regular'" font-size="15">Q954H</text>
+<text transform="matrix(1 0 0 1 1061.0439 523.627)" font-family="'MyriadPro-Regular'" font-size="15">L981F</text>
+<text transform="matrix(1 0 0 1 1029.0439 560.293)" font-family="'MyriadPro-Regular'" font-size="15">N969K</text>
+<text transform="matrix(1 0 0 1 734.7119 558.377)" font-family="'MyriadPro-Regular'" font-size="15">N679K</text>
+<text transform="matrix(1 0 0 1 738.8799 297.6465)" font-family="'MyriadPro-Regular'" font-size="15">H655Y</text>
+<text transform="matrix(1 0 0 1 1096.8799 297.6465)" font-family="'MyriadPro-Regular'" font-size="15">T1027I</text>
+<text transform="matrix(1 0 0 1 1022.5459 395.8828)" font-family="'MyriadPro-Regular'" font-size="15">D950N</text>
+<text transform="matrix(1 0 0 1 1249.2178 297.6465)" font-family="'MyriadPro-Regular'" font-size="15">V1176F</text>
+<g>
+	<rect x="698.379" y="399.722" fill="#FFFFFF" width="1" height="19.284"/>
+	<polygon points="699.379,399.722 698.379,399.722 698.379,419.006 699.379,419.006 	"/>
+</g>
+<g>
+	<rect x="765.379" y="399.722" fill="#FFFFFF" width="1" height="19.284"/>
+	<polygon points="766.379,399.722 765.379,399.722 765.379,419.006 766.379,419.006 	"/>
+</g>
+<g>
+	<rect x="1034.379" y="399.222" fill="#FFFFFF" width="1" height="20.144"/>
+	<polygon points="1035.379,399.222 1034.379,399.222 1034.379,419.365 1035.379,419.365 	"/>
+</g>
+<g>
+	<rect x="103.379" y="398.888" fill="#FFFFFF" width="1" height="19.706"/>
+	<polygon points="104.379,398.888 103.379,398.888 103.379,418.594 104.379,418.594 	"/>
+</g>
+<g>
+	<rect x="179.379" y="419.79" fill="#FFFFFF" width="1" height="5.194"/>
+	<polygon points="180.379,419.79 179.379,419.79 179.379,424.984 180.379,424.984 	"/>
+</g>
+<g>
+	<rect x="226.379" y="419.79" fill="#FFFFFF" width="1" height="5.194"/>
+	<polygon points="227.379,419.79 226.379,419.79 226.379,424.984 227.379,424.984 	"/>
+</g>
+<g>
+	<rect x="306.379" y="419.79" fill="#FFFFFF" width="1" height="5.194"/>
+	<polygon points="307.379,419.79 306.379,419.79 306.379,424.984 307.379,424.984 	"/>
+</g>
+<g>
+	<rect x="229.379" y="419.79" fill="#FFFFFF" width="1" height="5.194"/>
+	<polygon points="230.379,419.79 229.379,419.79 229.379,424.984 230.379,424.984 	"/>
+</g>
+<g>
+	<rect x="501.379" y="419.79" fill="#FFFFFF" width="1" height="5.194"/>
+	<polygon points="502.379,419.79 501.379,419.79 501.379,424.984 502.379,424.984 	"/>
+</g>
+<g>
+	<rect x="342.379" y="419.79" fill="#FFFFFF" width="1" height="5.194"/>
+	<polygon points="343.379,419.79 342.379,419.79 342.379,424.984 343.379,424.984 	"/>
+</g>
+<g>
+	<rect x="536.379" y="399.722" fill="#FFFFFF" width="1" height="19.284"/>
+	<polygon points="537.379,399.722 536.379,399.722 536.379,419.006 537.379,419.006 	"/>
+</g>
+<g>
+	<rect x="562.379" y="399.722" fill="#FFFFFF" width="1" height="19.284"/>
+	<polygon points="563.379,399.722 562.379,399.722 562.379,419.006 563.379,419.006 	"/>
+</g>
+<g>
+	<rect x="240.879" y="392.888" fill="#FFFFFF" width="1" height="14.573"/>
+	<polygon points="241.879,392.888 240.879,392.888 240.879,407.461 241.879,407.461 	"/>
+</g>
+<g>
+	<rect x="242.379" y="402.267" fill="#FFFFFF" width="1" height="5.194"/>
+	<polygon points="243.379,402.267 242.379,402.267 242.379,407.461 243.379,407.461 	"/>
+</g>
+<text transform="matrix(1 0 0 1 686.2139 395.8828)" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+<text transform="matrix(1 0 0 1 749.8799 395.8828)" font-family="'MyriadPro-Regular'" font-size="15">P681R</text>
+<text transform="matrix(1 0 0 1 515.8789 395.8828)" font-family="'MyriadPro-Regular'" font-size="15">L452R</text>
+<text transform="matrix(1 0 0 1 560.2134 395.8828)" font-family="'MyriadPro-Regular'" font-size="15">T478K</text>
+<g>
+	<rect x="562.379" y="491.875" fill="#FFFFFF" width="1" height="49.525"/>
+	<polygon points="563.379,491.875 562.379,491.875 562.379,541.4 563.379,541.4 	"/>
+</g>
+<text transform="matrix(1 0 0 1 524.7134 491.0107)" font-family="'MyriadPro-Regular'" font-size="15">T478K</text>
+<text transform="matrix(1 0 0 1 774.8799 224.4355)" font-family="'MyriadPro-Regular'" font-size="15">A701V</text>
+<text transform="matrix(1 0 0 1 745.2119 157.3877)" font-family="'MyriadPro-Regular'" font-size="15">P681H</text>
+<text transform="matrix(1 0 0 1 796.5479 156.3877)" font-family="'MyriadPro-Regular'" font-size="15">T716I</text>
+<text transform="matrix(1 0 0 1 1057.5479 156.3877)" font-family="'MyriadPro-Regular'" font-size="15">S982A</text>
+<text transform="matrix(1 0 0 1 1186.8818 156.3877)" font-family="'MyriadPro-Regular'" font-size="15">D1118H</text>
+<text transform="matrix(1 0 0 1 208.8794 391.5938)" font-family="'MyriadPro-Regular'" font-size="15">del 156-157</text>
+<text transform="matrix(1 0 0 1 245.5444 403.2607)" font-family="'MyriadPro-Regular'" font-size="15">F158G</text>
+<text transform="matrix(1 0 0 1 438.3794 66.3867)" font-family="'MyriadPro-Regular'" font-size="15">S1</text>
+<text transform="matrix(1 0 0 1 1031.3799 66.3867)" font-family="'MyriadPro-Regular'" font-size="15">S2</text>
+<text transform="matrix(1 0 0 1 737.7119 87.7188)" font-family="'MyriadPro-Regular'" font-size="15">Cleavage</text>
+<text transform="matrix(1 0 0 1 900.5889 85.0508)" font-family="'MyriadPro-Regular'" font-size="15">Fusion</text>
+<text transform="matrix(1 0 0 1 893.8926 103.0508)" font-family="'MyriadPro-Regular'" font-size="15">peptides</text>
+<text transform="matrix(1 0 0 1 1002.8037 87.3848)" font-family="'MyriadPro-Regular'" font-size="15">Heptad</text>
+<text transform="matrix(1 0 0 1 1000.2764 105.3848)" font-family="'MyriadPro-Regular'" font-size="15">repeat 1</text>
+<text transform="matrix(1 0 0 1 1240.8018 87.0508)" font-family="'MyriadPro-Regular'" font-size="15">Heptad</text>
+<text transform="matrix(1 0 0 1 1238.2754 105.0508)" font-family="'MyriadPro-Regular'" font-size="15">repeat 2</text>
+<text transform="matrix(1 0 0 1 1296.0439 87.0508)" font-family="'MyriadPro-Regular'" font-size="15">Trans-</text>
+<text transform="matrix(1 0 0 1 1296.0439 105.0508)" font-family="'MyriadPro-Regular'" font-size="15">membrane</text>
+<g>
+	<line fill="none" x1="84.871" y1="71.386" x2="762.871" y2="71.386"/>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="91.931" y1="71.386" x2="755.81" y2="71.386"/>
+		<g>
+			<polygon points="84.871,71.386 94.82,75.452 92.459,71.386 94.82,67.322 			"/>
+		</g>
+		<g>
+			<polygon points="762.871,71.386 752.921,75.452 755.282,71.386 752.921,67.322 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<line fill="none" x1="764.379" y1="71.386" x2="1353.379" y2="71.386"/>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="771.44" y1="71.386" x2="1346.319" y2="71.386"/>
+		<g>
+			<polygon points="764.379,71.386 774.329,75.452 771.967,71.386 774.329,67.322 			"/>
+		</g>
+		<g>
+			<polygon points="1353.379,71.386 1343.43,75.452 1345.792,71.386 1343.43,67.322 			"/>
+		</g>
+	</g>
+</g>
+<line fill="none" stroke="#EAAB2D" stroke-width="3" stroke-miterlimit="10" x1="101.379" y1="312.15" x2="101.379" y2="323.65"/>
+<g>
+	<rect x="585.379" y="506.875" fill="#FFFFFF" width="1" height="34.871"/>
+	<polygon points="586.379,506.875 585.379,506.875 585.379,541.746 586.379,541.746 	"/>
+</g>
+<g>
+	<rect x="589.379" y="525.9" fill="#FFFFFF" width="1" height="15.846"/>
+	<polygon points="590.379,525.9 589.379,525.9 589.379,541.746 590.379,541.746 	"/>
+</g>
+<g>
+	<rect x="631.379" y="524.875" fill="#FFFFFF" width="1" height="16.871"/>
+	<polygon points="632.379,524.875 631.379,524.875 631.379,541.746 632.379,541.746 	"/>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 276.2124 561.377)" font-family="'MyriadPro-Regular'" font-size="15">NL211-212I</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 387.8789 520.8887)" font-family="'MyriadPro-Regular'" font-size="15">G339D</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 417.7119 559.3887)" font-family="'MyriadPro-Regular'" font-size="15">S371L</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 439.0459 574.2207)" font-family="'MyriadPro-Regular'" font-size="15">S373P</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 460.8789 559.3887)" font-family="'MyriadPro-Regular'" font-size="15">S375F</text>
+</g>
+<g>
+	<rect x="501.379" y="670.914" fill="#FFFFFF" width="1" height="16.16"/>
+	<polygon points="502.379,670.914 501.379,670.914 501.379,687.074 502.379,687.074 	"/>
+</g>
+<g>
+	<rect x="524.379" y="675.156" fill="#FFFFFF" width="1" height="15.078"/>
+	<polygon points="525.379,675.156 524.379,675.156 524.379,690.234 525.379,690.234 	"/>
+</g>
+<text transform="matrix(1 0 0 1 499.2544 669.5859)" font-family="'MyriadPro-Regular'" font-size="15">K417N</text>
+<text transform="matrix(1 0 0 1 438.2544 666.2109)" font-family="'MyriadPro-Regular'" font-size="15">T376A</text>
+<text transform="matrix(1 0 0 1 518.1299 705.085)" font-family="'MyriadPro-Regular'" font-size="15">N440K</text>
+<text transform="matrix(1 0 0 1 524.6299 738.5879)" font-family="'MyriadPro-Regular'" font-size="15">S477N</text>
+<text transform="matrix(1 0 0 1 574.6299 738.5879)" font-family="'MyriadPro-Regular'" font-size="15">Q493R</text>
+<text transform="matrix(1 0 0 1 582.6299 705.3887)" font-family="'MyriadPro-Regular'" font-size="15">Q498R</text>
+<g>
+	<rect x="568.379" y="637.875" fill="#FFFFFF" width="1" height="50.264"/>
+	<polygon points="569.379,637.875 568.379,637.875 568.379,688.138 569.379,688.138 	"/>
+</g>
+<g>
+	<rect x="577.379" y="675.9" fill="#FFFFFF" width="1" height="49.893"/>
+	<polygon points="578.379,675.9 577.379,675.9 577.379,725.792 578.379,725.792 	"/>
+</g>
+<g>
+	<rect x="582.379" y="675.9" fill="#FFFFFF" width="1" height="15.846"/>
+	<polygon points="583.379,675.9 582.379,675.9 582.379,691.746 583.379,691.746 	"/>
+</g>
+<text transform="matrix(1 0 0 1 568.7129 637.625)" font-family="'MyriadPro-Regular'" font-size="15">E484A</text>
+<text transform="matrix(1 0 0 1 581.4629 653.375)" font-family="'MyriadPro-Regular'" font-size="15">N501Y</text>
+<text transform="matrix(1 0 0 1 585.9624 670.877)" font-family="'MyriadPro-Regular'" font-size="15">Y505H</text>
+<g>
+	<rect x="102.879" y="665.755" fill="#FFFFFF" width="1" height="20.632"/>
+	<polygon points="103.879,665.755 102.879,665.755 102.879,686.387 103.879,686.387 	"/>
+</g>
+<g>
+	<rect x="107.879" y="687.172" fill="#FFFFFF" width="1" height="8.049"/>
+	<polygon points="108.879,687.172 107.879,687.172 107.879,695.221 108.879,695.221 	"/>
+</g>
+<g>
+	<rect x="110.879" y="665.755" fill="#FFFFFF" width="1" height="20.632"/>
+	<polygon points="111.879,665.755 110.879,665.755 110.879,686.387 111.879,686.387 	"/>
+</g>
+<text transform="matrix(1 0 0 1 78.8799 664.0469)" font-family="'MyriadPro-Regular'" font-size="15">T19I</text>
+<text transform="matrix(1 0 0 1 109.8799 663.5469)" font-family="'MyriadPro-Regular'" font-size="15">A27S</text>
+<text transform="matrix(1 0 0 1 87.5464 704.0469)" font-family="'MyriadPro-Regular'" font-size="15">del 24-26</text>
+<text transform="matrix(1 0 0 1 203.6279 663.5469)" font-family="'MyriadPro-Regular'" font-size="15">G142D</text>
+<text transform="matrix(1 0 0 1 203.1284 561.377)" font-family="'MyriadPro-Regular'" font-size="15">ins214EPE</text>
+<g>
+	<rect x="698.379" y="671.892" fill="#FFFFFF" width="1" height="15.195"/>
+	<polygon points="699.379,671.892 698.379,671.892 698.379,687.087 699.379,687.087 	"/>
+</g>
+<g>
+	<rect x="848.379" y="671.892" fill="#FFFFFF" width="1" height="15.195"/>
+	<polygon points="849.379,671.892 848.379,671.892 848.379,687.087 849.379,687.087 	"/>
+</g>
+<g>
+	<rect x="880.379" y="671.892" fill="#FFFFFF" width="1" height="15.195"/>
+	<polygon points="881.379,671.892 880.379,671.892 880.379,687.087 881.379,687.087 	"/>
+</g>
+<g>
+	<rect x="1038.379" y="671.892" fill="#FFFFFF" width="1" height="15.195"/>
+	<polygon points="1039.379,671.892 1038.379,671.892 1038.379,687.087 1039.379,687.087 	"/>
+</g>
+<g>
+	<rect x="1053.379" y="674.892" fill="#FFFFFF" width="1" height="15.195"/>
+	<polygon points="1054.379,674.892 1053.379,674.892 1053.379,690.087 1054.379,690.087 	"/>
+</g>
+<g>
+	<rect x="739.379" y="659.388" fill="#FFFFFF" width="1" height="27.699"/>
+	<polygon points="740.379,659.388 739.379,659.388 739.379,687.087 740.379,687.087 	"/>
+</g>
+<g>
+	<rect x="765.379" y="671.892" fill="#FFFFFF" width="1" height="15.195"/>
+	<polygon points="766.379,671.892 765.379,671.892 765.379,687.087 766.379,687.087 	"/>
+</g>
+<g>
+	<rect x="763.379" y="675.892" fill="#FFFFFF" width="1" height="15.195"/>
+	<polygon points="764.379,675.892 763.379,675.892 763.379,691.087 764.379,691.087 	"/>
+</g>
+<g>
+	<rect x="423.379" y="668.646" fill="#FFFFFF" width="1" height="18.771"/>
+	<polygon points="424.379,668.646 423.379,668.646 423.379,687.417 424.379,687.417 	"/>
+</g>
+<g>
+	<rect x="460.379" y="668.646" fill="#FFFFFF" width="1" height="18.771"/>
+	<polygon points="461.379,668.646 460.379,668.646 460.379,687.417 461.379,687.417 	"/>
+</g>
+<g>
+	<rect x="489.379" y="640.261" fill="#FFFFFF" width="1" height="47.156"/>
+	<polygon points="490.379,640.261 489.379,640.261 489.379,687.417 490.379,687.417 	"/>
+</g>
+<g>
+	<rect x="492.379" y="656.219" fill="#FFFFFF" width="1" height="31.198"/>
+	<polygon points="493.379,656.219 492.379,656.219 492.379,687.417 493.379,687.417 	"/>
+</g>
+<g>
+	<rect x="298.379" y="664.886" fill="#FFFFFF" width="1" height="21.441"/>
+	<polygon points="299.379,664.886 298.379,664.886 298.379,686.328 299.379,686.328 	"/>
+</g>
+<g>
+	<rect x="455.379" y="675.384" fill="#FFFFFF" width="1" height="17.404"/>
+	<polygon points="456.379,675.384 455.379,675.384 455.379,692.789 456.379,692.789 	"/>
+</g>
+<g>
+	<rect x="457.379" y="675.384" fill="#FFFFFF" width="1" height="32.49"/>
+	<polygon points="458.379,675.384 457.379,675.384 457.379,707.875 458.379,707.875 	"/>
+</g>
+<g>
+	<rect x="459.379" y="675.384" fill="#FFFFFF" width="1" height="17.404"/>
+	<polygon points="460.379,675.384 459.379,675.384 459.379,692.789 460.379,692.789 	"/>
+</g>
+<g>
+	<rect x="561.379" y="676.475" fill="#FFFFFF" width="1" height="49.913"/>
+	<polygon points="562.379,676.475 561.379,676.475 561.379,726.388 562.379,726.388 	"/>
+</g>
+<g>
+	<rect x="298.379" y="664.886" fill="#FFFFFF" width="1" height="21.441"/>
+	<polygon points="299.379,664.886 298.379,664.886 298.379,686.328 299.379,686.328 	"/>
+</g>
+<g>
+	<rect x="226.379" y="664.886" fill="#FFFFFF" width="1" height="21.441"/>
+	<polygon points="227.379,664.886 226.379,664.886 226.379,686.328 227.379,686.328 	"/>
+</g>
+<g>
+	<rect x="232.047" y="529.886" fill="#FFFFFF" width="1" height="19.596"/>
+	<polygon points="233.047,529.886 232.047,529.886 232.047,549.482 233.047,549.482 	"/>
+</g>
+<text transform="matrix(1 0 0 1 679.2114 668.377)" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+<text transform="matrix(1 0 0 1 725.2119 651.375)" font-family="'MyriadPro-Regular'" font-size="15">H655Y</text>
+<text transform="matrix(1 0 0 1 755.7119 669.627)" font-family="'MyriadPro-Regular'" font-size="15">P681H</text>
+<text transform="matrix(1 0 0 1 822.3779 669.627)" font-family="'MyriadPro-Regular'" font-size="15">N764K</text>
+<text transform="matrix(1 0 0 1 871.0439 669.627)" font-family="'MyriadPro-Regular'" font-size="15">D796Y</text>
+<text transform="matrix(1 0 0 1 1003.71 669.627)" font-family="'MyriadPro-Regular'" font-size="15">Q954H</text>
+<text transform="matrix(1 0 0 1 1029.0439 706.293)" font-family="'MyriadPro-Regular'" font-size="15">N969K</text>
+<text transform="matrix(1 0 0 1 734.7119 704.377)" font-family="'MyriadPro-Regular'" font-size="15">N679K</text>
+<g>
+	<rect x="562.379" y="637.875" fill="#FFFFFF" width="1" height="49.525"/>
+	<polygon points="563.379,637.875 562.379,637.875 562.379,687.4 563.379,687.4 	"/>
+</g>
+<text transform="matrix(1 0 0 1 524.7134 637.0117)" font-family="'MyriadPro-Regular'" font-size="15">T478K</text>
+<text transform="matrix(1 0 0 1 470.7134 637.8867)" font-family="'MyriadPro-Regular'" font-size="15">D405N</text>
+<text transform="matrix(1 0 0 1 491.5049 654.2207)" font-family="'MyriadPro-Regular'" font-size="15">R408S</text>
+<g>
+	<rect x="585.379" y="652.875" fill="#FFFFFF" width="1" height="34.871"/>
+	<polygon points="586.379,652.875 585.379,652.875 585.379,687.746 586.379,687.746 	"/>
+</g>
+<g>
+	<rect x="589.379" y="671.9" fill="#FFFFFF" width="1" height="15.846"/>
+	<polygon points="590.379,671.9 589.379,671.9 589.379,687.746 590.379,687.746 	"/>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 281.8789 661.3887)" font-family="'MyriadPro-Regular'" font-size="15">V213G</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 387.8789 666.8887)" font-family="'MyriadPro-Regular'" font-size="15">G339D</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 417.7119 704.3867)" font-family="'MyriadPro-Regular'" font-size="15">S371F</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 439.0459 720.2207)" font-family="'MyriadPro-Regular'" font-size="15">S373P</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 460.8789 704.3867)" font-family="'MyriadPro-Regular'" font-size="15">S375F</text>
+</g>
+<g id="archive" display="none">
+	<text transform="matrix(1 0 0 1 21.2354 859.2793)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">Epsilon</text>
+	<text transform="matrix(1 0 0 1 -38.3408 877.2793)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(B.1.427, B.1.429)</text>
+	<text transform="matrix(1 0 0 1 21.7002 914.6133)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">Zeta</text>
+	<text transform="matrix(1 0 0 1 21.7002 932.6133)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(P2)</text>
+	<text transform="matrix(1 0 0 1 21.7002 974.9453)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">Eta</text>
+	<text transform="matrix(1 0 0 1 21.7002 992.9453)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(B.1.525)</text>
+	<text transform="matrix(1 0 0 1 21.7148 1035.2793)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">Theta</text>
+	<text transform="matrix(1 0 0 1 21.7148 1053.2793)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(P3)</text>
+	<text transform="matrix(1 0 0 1 21.7002 748.6328)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">Lambda</text>
+	<text transform="matrix(1 0 0 1 21.7002 766.6328)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(C37)</text>
+	<text transform="matrix(1 0 0 1 21.7002 796.6328)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">Mu</text>
+	<text transform="matrix(1 0 0 1 21.7002 814.6328)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(B.1.621)</text>
+	<text transform="matrix(1 0 0 1 21.7002 1146.2793)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">Kappa</text>
+	<text transform="matrix(1 0 0 1 21.7002 1164.2793)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(B.1.617.1)</text>
+	<text transform="matrix(1 0 0 1 21.7002 1093.2793)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">Iota</text>
+	<text transform="matrix(1 0 0 1 21.7002 1111.2793)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(B.1.526)</text>
+	<text transform="matrix(1 0 0 1 -145.4092 752.7578)" display="inline" font-family="'MyriadPro-Bold'" font-size="18">Variants of Interest</text>
+	<text transform="matrix(1 0 0 1 -89.0342 774.3574)" display="inline" font-family="'MyriadPro-Bold'" font-size="18">(VOI)</text>
+	<text transform="matrix(1 0 0 1 -101.4502 799.7578)" display="inline" font-family="'MyriadPro-Bold'" font-size="18"> archive</text>
+	<text transform="matrix(1 0 0 1 221.8608 875.877)" display="inline" font-family="'MyriadPro-Regular'" font-size="10">S-S</text>
+	<g display="inline">
+		<rect x="155.323" y="964.895" fill="#FFFFFF" width="72.612" height="11.038"/>
+		<path d="M227.492,965.338v10.151h-71.725v-10.151H227.492 M228.379,964.451h-73.5v11.927h73.5V964.451L228.379,964.451z"/>
+	</g>
+	<g display="inline">
+		<rect x="229.823" y="964.895" fill="#FFFFFF" width="1126.112" height="11.038"/>
+		<path d="M1355.492,965.338v10.151H230.267v-10.151H1355.492 M1356.379,964.451h-1127v11.927h1127V964.451L1356.379,964.451z"/>
+	</g>
+	<g display="inline">
+		<rect x="228.823" y="957.322" fill="#FFFFFF" width="0.112" height="6.685"/>
+		<polygon points="229.379,956.877 228.379,956.877 228.379,964.451 229.379,964.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="83.823" y="964.895" fill="#FFFFFF" width="69.612" height="11.038"/>
+		<path d="M152.992,965.338v10.151H84.267v-10.151H152.992 M153.879,964.451h-70.5v11.927h70.5V964.451L153.879,964.451z"/>
+	</g>
+	<g display="inline">
+		<rect x="501.379" y="840.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="502.379,840.765 501.379,840.765 501.379,845.959 502.379,845.959 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 476.1299 838.585)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">K417N/T</text>
+	<g display="inline">
+		<rect x="585.379" y="779.799" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="586.379,779.799 585.379,779.799 585.379,784.994 586.379,784.994 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 582.6309 775.748)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">N501Y</text>
+	<g display="inline">
+		<rect x="585.379" y="1016.778" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="586.379,1016.778 585.379,1016.778 585.379,1021.973 586.379,1021.973 		"/>
+	</g>
+	<g display="inline">
+		<rect x="568.379" y="1016.778" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="569.379,1016.778 568.379,1016.778 568.379,1021.973 569.379,1021.973 		"/>
+	</g>
+	<g display="inline">
+		<rect x="349.379" y="1016.778" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="350.379,1016.778 349.379,1016.778 349.379,1021.973 350.379,1021.973 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 579.6304 1008.7305)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">N501Y</text>
+	<g display="inline">
+		<rect x="153.879" y="955.587" fill="#FFFFFF" width="1" height="8.863"/>
+		<polygon points="154.879,955.587 153.879,955.587 153.879,964.451 154.879,964.451 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 153.2134 955.7109)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">del 69-70</text>
+	<text transform="matrix(1 0 0 1 199.5464 1014.0439)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(del 141-143)</text>
+	<text transform="matrix(1 0 0 1 331.5479 1014.0439)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(Y265C)</text>
+	<text transform="matrix(1 0 0 1 218.8794 956.3789)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">del144</text>
+	
+		<rect x="83.379" y="851.451" display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="1273" height="11.927"/>
+	<g display="inline">
+		<rect x="698.379" y="846.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="699.379,846.256 698.379,846.256 698.379,851.451 699.379,851.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="97.379" y="846.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="98.379,846.256 97.379,846.256 97.379,851.451 98.379,851.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="236.379" y="846.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="237.379,846.256 236.379,846.256 236.379,851.451 237.379,851.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="342.379" y="846.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="343.379,846.256 342.379,846.256 342.379,851.451 343.379,851.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="536.379" y="846.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="537.379,846.256 536.379,846.256 536.379,851.451 537.379,851.451 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 686.2139 836.875)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+	<text transform="matrix(1 0 0 1 90.8799 836.875)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">S13I</text>
+	<text transform="matrix(1 0 0 1 224.2129 838.207)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">W152C</text>
+	<text transform="matrix(1 0 0 1 318.2134 838.207)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(W258L)</text>
+	<text transform="matrix(1 0 0 1 522.8794 838.207)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">L452R</text>
+	<g display="inline">
+		<rect x="536.379" y="1131.947" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="537.379,1131.947 536.379,1131.947 536.379,1137.141 537.379,1137.141 		"/>
+	</g>
+	<g display="inline">
+		<rect x="568.379" y="1131.947" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="569.379,1131.947 568.379,1131.947 568.379,1137.141 569.379,1137.141 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 522.2129 1129.8984)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">L452R</text>
+	<g display="inline">
+		<rect x="536.379" y="728.635" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="537.379,728.635 536.379,728.635 536.379,733.83 537.379,733.83 		"/>
+	</g>
+	<g display="inline">
+		<rect x="574.379" y="728.635" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="575.379,728.635 574.379,728.635 574.379,733.83 575.379,733.83 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 522.2129 726.584)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">L452Q</text>
+	<text transform="matrix(1 0 0 1 566.5464 726.584)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">F490S</text>
+	<text transform="matrix(1 0 0 1 566.8794 1129.8984)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">E484Q</text>
+	
+		<rect x="83.379" y="907.451" display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="1273" height="11.927"/>
+	<g display="inline">
+		<rect x="698.379" y="902.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="699.379,902.256 698.379,902.256 698.379,907.451 699.379,907.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="1260.379" y="902.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="1261.379,902.256 1260.379,902.256 1260.379,907.451 1261.379,907.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="568.379" y="902.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="569.379,902.256 568.379,902.256 568.379,907.451 569.379,907.451 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 686.2139 892.875)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+	<text transform="matrix(1 0 0 1 1242.8799 892.875)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">V1176F</text>
+	<text transform="matrix(1 0 0 1 555.2129 893.875)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">E484K</text>
+	<g display="inline">
+		<rect x="568.379" y="960.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="569.379,960.256 568.379,960.256 568.379,965.451 569.379,965.451 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 555.2129 951.875)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">E484K</text>
+	<g display="inline">
+		<rect x="568.379" y="780.611" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="569.379,780.611 568.379,780.611 568.379,785.805 569.379,785.805 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 539.2134 774.2285)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">E484K</text>
+	<text transform="matrix(1 0 0 1 529.2114 1008.375)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(E484K)</text>
+	<text transform="matrix(1 0 0 1 300.8774 1049.709)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(del 243-244)</text>
+	<g display="inline">
+		<rect x="568.379" y="1096.281" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="569.379,1096.281 568.379,1096.281 568.379,1101.475 569.379,1101.475 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 568.2124 1109.8984)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(E484K)</text>
+	<g display="inline">
+		<rect x="698.379" y="959.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="699.379,959.256 698.379,959.256 698.379,964.451 699.379,964.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="761.379" y="959.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="762.379,959.256 761.379,959.256 761.379,964.451 762.379,964.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="972.379" y="959.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="973.379,959.256 972.379,959.256 972.379,964.451 973.379,964.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="136.379" y="959.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="137.379,959.256 136.379,959.256 136.379,964.451 137.379,964.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="151.379" y="942.21" fill="#FFFFFF" width="1" height="22.834"/>
+		<polygon points="152.379,942.21 151.379,942.21 151.379,965.044 152.379,965.044 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 686.2139 949.875)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+	<text transform="matrix(1 0 0 1 744.8799 949.875)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">Q677H</text>
+	<text transform="matrix(1 0 0 1 962.8799 949.875)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">F888L</text>
+	<text transform="matrix(1 0 0 1 101.8779 953.875)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(Q52R)</text>
+	<text transform="matrix(1 0 0 1 148.5444 940.875)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">A67V</text>
+	
+		<rect x="83.379" y="1022.451" display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="142" height="11.927"/>
+	
+		<rect x="228.379" y="1022.451" display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="100" height="11.927"/>
+	
+		<rect x="330.379" y="1022.451" display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="1026" height="11.927"/>
+	<g display="inline">
+		<rect x="698.379" y="1017.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="699.379,1017.256 698.379,1017.256 698.379,1022.451 699.379,1022.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="765.379" y="1017.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="766.379,1017.256 765.379,1017.256 765.379,1022.451 766.379,1022.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="1176.379" y="1017.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="1177.379,1017.256 1176.379,1017.256 1176.379,1022.451 1177.379,1022.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="1185.379" y="1017.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="1186.379,1017.256 1185.379,1017.256 1185.379,1022.451 1186.379,1022.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="1260.379" y="1017.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="1261.379,1017.256 1260.379,1017.256 1260.379,1022.451 1261.379,1022.451 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 686.2139 1007.875)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+	<text transform="matrix(1 0 0 1 756.7139 1007.875)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">P681H</text>
+	<g display="inline">
+		<rect x="765.379" y="779.612" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="766.379,779.612 765.379,779.612 765.379,784.806 766.379,784.806 		"/>
+	</g>
+	<g display="inline">
+		<rect x="1034.379" y="779.612" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="1035.379,779.612 1034.379,779.612 1034.379,784.806 1035.379,784.806 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 756.7139 774.2285)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">P681H</text>
+	<text transform="matrix(1 0 0 1 1012.8779 774.2285)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D950N</text>
+	<text transform="matrix(1 0 0 1 756.7139 1126.207)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">P681R</text>
+	<text transform="matrix(1 0 0 1 1132.2119 1010.875)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">E1092K</text>
+	<text transform="matrix(1 0 0 1 1113.208 1126.541)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(Q1071H)</text>
+	<text transform="matrix(1 0 0 1 1176.71 1126.541)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(H1101D)</text>
+	<text transform="matrix(1 0 0 1 1181.7139 1011.375)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">H1101Y</text>
+	<text transform="matrix(1 0 0 1 1250.7139 1011.375)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">V1176F</text>
+	
+		<rect x="83.379" y="1084.451" display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="1273" height="11.927"/>
+	
+		<rect x="83.379" y="785.472" display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="1273" height="11.928"/>
+	<g display="inline">
+		<rect x="698.379" y="1079.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="699.379,1079.256 698.379,1079.256 698.379,1084.451 699.379,1084.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="785.379" y="1079.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="786.379,1079.256 785.379,1079.256 785.379,1084.451 786.379,1084.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="89.379" y="1097.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="90.379,1097.256 89.379,1097.256 89.379,1102.451 90.379,1102.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="179.379" y="1079.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="180.379,1079.256 179.379,1079.256 179.379,1084.451 180.379,1084.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="337.379" y="1079.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="338.379,1079.256 337.379,1079.256 337.379,1084.451 338.379,1084.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="561.379" y="1096.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="562.379,1096.256 561.379,1096.256 561.379,1101.451 562.379,1101.451 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 686.2139 1069.875)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+	<text transform="matrix(1 0 0 1 774.2139 1069.875)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(A701V)</text>
+	<text transform="matrix(1 0 0 1 172.8799 1069.875)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">T95I</text>
+	<g display="inline">
+		<rect x="179.379" y="779.944" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="180.379,779.944 179.379,779.944 179.379,785.138 180.379,785.138 		"/>
+	</g>
+	<g display="inline">
+		<rect x="430.379" y="779.944" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="431.379,779.944 430.379,779.944 430.379,785.138 431.379,785.138 		"/>
+	</g>
+	<g display="inline">
+		<polygon points="230.379,796.968 228.379,796.968 228.379,802.163 230.379,802.163 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 172.8799 770.5605)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">T95I</text>
+	<text transform="matrix(1 0 0 1 416.8789 770.5605)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">R346K</text>
+	<text transform="matrix(1 0 0 1 189.0469 816.6777)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(YY144-145SN)</text>
+	<text transform="matrix(1 0 0 1 182.2124 1128.541)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(G142D)</text>
+	<text transform="matrix(1 0 0 1 142.1289 727.6445)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">GT75-76VI</text>
+	<text transform="matrix(1 0 0 1 235.5464 1128.875)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(E154K)</text>
+	<text transform="matrix(1 0 0 1 330.8794 1069.875)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D253G</text>
+	<text transform="matrix(1 0 0 1 289.5464 1167.209)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">R246N</text>
+	<text transform="matrix(1 0 0 1 518.4634 1110.375)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(S477N)</text>
+	<text transform="matrix(1 0 0 1 84.3799 1111.207)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">L5F</text>
+	
+		<rect x="83.379" y="1137.451" display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="1273" height="11.927"/>
+	<g display="inline">
+		<rect x="698.379" y="1132.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="699.379,1132.256 698.379,1132.256 698.379,1137.451 699.379,1137.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="765.379" y="1132.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="766.379,1132.256 765.379,1132.256 765.379,1137.451 766.379,1137.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="1155.379" y="1132.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="1156.379,1132.256 1155.379,1132.256 1155.379,1137.451 1156.379,1137.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="1185.379" y="1132.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="1186.379,1132.256 1185.379,1132.256 1185.379,1137.451 1186.379,1137.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="226.379" y="1132.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="227.379,1132.256 226.379,1132.256 226.379,1137.451 227.379,1137.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="238.379" y="1132.256" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="239.379,1132.256 238.379,1132.256 238.379,1137.451 239.379,1137.451 		"/>
+	</g>
+	<g display="inline">
+		<rect x="179.379" y="1149.28" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="180.379,1149.28 179.379,1149.28 179.379,1154.474 180.379,1154.474 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 686.2139 1126.875)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+	<text transform="matrix(1 0 0 1 686.2139 725.5605)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+	<text transform="matrix(1 0 0 1 919.2119 725.5605)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(T859N)</text>
+	<text transform="matrix(1 0 0 1 172.7134 1163.375)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(T95I)</text>
+	
+		<rect x="337.379" y="733.472" display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="1019" height="11.928"/>
+	
+		<rect x="83.379" y="733.472" display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="247" height="11.928"/>
+	<g display="inline">
+		<rect x="698.379" y="728.278" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="699.379,728.278 698.379,728.278 698.379,733.472 699.379,733.472 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 686.2139 774.2285)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+	<g display="inline">
+		<rect x="698.379" y="780.945" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="699.379,780.945 698.379,780.945 698.379,786.139 699.379,786.139 		"/>
+	</g>
+	<g display="inline">
+		<rect x="943.379" y="728.278" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="944.379,728.278 943.379,728.278 943.379,733.472 944.379,733.472 		"/>
+	</g>
+	<g display="inline">
+		<rect x="332.379" y="728.278" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="333.379,728.278 332.379,728.278 332.379,733.472 333.379,733.472 		"/>
+	</g>
+	<g display="inline">
+		<rect x="330.379" y="712.649" fill="#FFFFFF" width="1" height="20.822"/>
+		<polygon points="331.379,712.649 330.379,712.649 330.379,733.472 331.379,733.472 		"/>
+	</g>
+	<g display="inline">
+		<rect x="160.007" y="728.906" fill="#FFFFFF" width="0.744" height="3.938"/>
+		<polygon points="161.379,728.278 159.379,728.278 159.379,733.472 161.379,733.472 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 332.5464 727.0605)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">del 247-252</text>
+	<polyline display="inline" fill="none" stroke="#000000" stroke-miterlimit="10" points="235.046,873.377 237.398,873.377 
+		237.398,863.377 	"/>
+	<polyline display="inline" fill="none" stroke="#000000" stroke-miterlimit="10" points="220.379,863.377 220.379,873.377 
+		223.027,873.377 	"/>
+	<g display="inline">
+		<rect x="225.379" y="1016.756" fill="#FFFFFF" width="3" height="5.194"/>
+		<polygon points="228.379,1016.756 225.379,1016.756 225.379,1021.951 228.379,1021.951 		"/>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 328.8789 705.4189)" font-family="'MyriadPro-Regular'" font-size="15">R214E</text>
+	</g>
+</g>
+<g id="Layer_9" display="none">
+	<text transform="matrix(1 0 0 1 21.7002 1001.6211)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">B.1.621</text>
+</g>
+<g id="Layer_1_copy" display="none">
+	<text transform="matrix(1 0 0 1 221.8608 616.3867)" display="inline" font-family="'MyriadPro-Regular'" font-size="10">S-S</text>
+	<g display="inline">
+		<rect x="155.323" y="705.404" fill="#FFFFFF" width="72.612" height="11.038"/>
+		<path d="M227.492,705.847v10.151h-71.725v-10.151H227.492 M228.379,704.959h-73.5v11.927h73.5V704.959L228.379,704.959z"/>
+	</g>
+	<g display="inline">
+		<rect x="229.823" y="705.404" fill="#FFFFFF" width="1126.112" height="11.038"/>
+		<path d="M1355.492,705.847v10.151H230.267v-10.151H1355.492 M1356.379,704.959h-1127v11.927h1127V704.959L1356.379,704.959z"/>
+	</g>
+	<g display="inline">
+		<rect x="228.823" y="697.831" fill="#FFFFFF" width="0.112" height="6.685"/>
+		<polygon points="229.379,697.386 228.379,697.386 228.379,704.959 229.379,704.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="83.823" y="705.404" fill="#FFFFFF" width="69.612" height="11.038"/>
+		<path d="M152.992,705.847v10.151H84.267v-10.151H152.992 M153.879,704.959h-70.5v11.927h70.5V704.959L153.879,704.959z"/>
+	</g>
+	
+		<rect x="83.379" y="279.959" display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="241" height="11.927"/>
+	
+		<rect x="328.379" y="279.959" display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="1029" height="11.927"/>
+	
+		<rect x="83.379" y="350.959" display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="1273" height="11.927"/>
+	
+		<rect x="83.379" y="423.959" display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="156" height="11.927"/>
+	
+		<rect x="242.379" y="423.959" display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="1115" height="11.927"/>
+	<g display="inline">
+		<g>
+			<rect x="83.823" y="207.737" fill="#FFFFFF" width="68.112" height="11.039"/>
+			<path d="M151.492,208.181v10.151H84.267v-10.151H151.492 M152.379,207.293h-69v11.927h69V207.293L152.379,207.293z"/>
+		</g>
+		<g>
+			<rect x="154.823" y="207.737" fill="#FFFFFF" width="72.112" height="11.039"/>
+			<path d="M226.492,208.181v10.151h-71.225v-10.151H226.492 M227.379,207.293h-73v11.927h73V207.293L227.379,207.293z"/>
+		</g>
+		<g>
+			<rect x="228.823" y="207.737" fill="#FFFFFF" width="1127.112" height="11.039"/>
+			<path d="M1355.492,208.181v10.151H229.267v-10.151H1355.492 M1356.379,207.293h-1128v11.927h1128V207.293L1356.379,207.293z"/>
+		</g>
+	</g>
+	<g display="inline">
+		<rect x="228.379" y="201.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="229.379,201.765 228.379,201.765 228.379,206.959 229.379,206.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="153.879" y="201.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="154.879,201.765 153.879,201.765 153.879,206.959 154.879,206.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="102.379" y="291.766" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="103.379,291.766 102.379,291.766 102.379,296.96 103.379,296.96 		"/>
+	</g>
+	<g display="inline">
+		<rect x="102.379" y="345.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="103.379,345.765 102.379,345.765 102.379,350.959 103.379,350.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="104.379" y="336.387" fill="#FFFFFF" width="1" height="14.403"/>
+		<polygon points="105.379,336.387 104.379,336.387 104.379,350.79 105.379,350.79 		"/>
+	</g>
+	<g display="inline">
+		<rect x="110.379" y="345.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="111.379,345.765 110.379,345.765 110.379,350.959 111.379,350.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="222.379" y="345.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="223.379,345.765 222.379,345.765 222.379,350.959 223.379,350.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="274.379" y="345.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="275.379,345.765 274.379,345.765 274.379,350.959 275.379,350.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="501.379" y="345.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="502.379,345.765 501.379,345.765 501.379,350.959 502.379,350.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="164.379" y="274.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="165.379,274.765 164.379,274.765 164.379,279.959 165.379,279.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="299.379" y="274.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="300.379,274.765 299.379,274.765 299.379,279.959 300.379,279.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="326.379" y="291.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="327.379,291.765 326.379,291.765 326.379,296.959 327.379,296.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="501.379" y="274.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="502.379,274.765 501.379,274.765 501.379,279.959 502.379,279.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="568.379" y="274.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="569.379,274.765 568.379,274.765 568.379,279.959 569.379,279.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="585.379" y="274.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="586.379,274.765 585.379,274.765 585.379,279.959 586.379,279.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="585.379" y="201.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="586.379,201.765 585.379,201.765 585.379,206.959 586.379,206.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="644.379" y="201.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="645.379,201.765 644.379,201.765 644.379,206.959 645.379,206.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="698.379" y="201.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="699.379,201.765 698.379,201.765 698.379,206.959 699.379,206.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="765.379" y="201.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="766.379,201.765 765.379,201.765 765.379,206.959 766.379,206.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="800.379" y="201.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="801.379,201.765 800.379,201.765 800.379,206.959 801.379,206.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="1066.379" y="201.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="1067.379,201.765 1066.379,201.765 1066.379,206.959 1067.379,206.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="1202.379" y="201.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="1203.379,201.765 1202.379,201.765 1202.379,206.959 1203.379,206.959 		"/>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 93.8794 305.2178)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">(L18F)</text>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 73.8701 345.7607)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">L18F</text>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 96.2124 332.8828)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">T20N</text>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 96.2124 413.3809)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">T19R</text>
+	</g>
+	<text transform="matrix(1 0 0 1 162.2109 453.3809)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(T95I)</text>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 207.7119 453.3809)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">(G142D)</text>
+	</g>
+	<text transform="matrix(1 0 0 1 286.2114 453.3809)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(A222V)</text>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 337.8794 453.3809)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">(W258L)</text>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 110.2124 344.7607)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">P26S</text>
+	</g>
+	<text transform="matrix(1 0 0 1 208.8794 344.7607)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D138Y</text>
+	<text transform="matrix(1 0 0 1 261.8794 344.7607)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">R190S</text>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 153.8799 272.2178)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">D80A</text>
+	</g>
+	<text transform="matrix(1 0 0 1 287.3799 272.2178)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D215G</text>
+	<text transform="matrix(1 0 0 1 308.6294 305.2178)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(del 241-243)</text>
+	<text transform="matrix(1 0 0 1 480.1304 272.2178)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">K417N</text>
+	<text transform="matrix(1 0 0 1 478.3286 453.3809)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(K417N)</text>
+	<text transform="matrix(1 0 0 1 448.1035 471.3809)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">[sublineage AY-1]</text>
+	<text transform="matrix(1 0 0 1 476.1299 343.585)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">K417N/T</text>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 537.1294 273.7178)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">E484K</text>
+	</g>
+	<text transform="matrix(1 0 0 1 579.6304 273.7178)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">N501Y</text>
+	<g display="inline">
+		<rect x="568.379" y="346.287" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="569.379,346.287 568.379,346.287 568.379,351.482 569.379,351.482 		"/>
+	</g>
+	<g display="inline">
+		<rect x="585.379" y="346.287" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="586.379,346.287 585.379,346.287 585.379,351.482 586.379,351.482 		"/>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 539.1294 342.2393)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">E484K</text>
+	</g>
+	<text transform="matrix(1 0 0 1 582.6309 343.2393)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">N501Y</text>
+	<g display="inline">
+		<rect x="585.379" y="757.287" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="586.379,757.287 585.379,757.287 585.379,762.482 586.379,762.482 		"/>
+	</g>
+	<g display="inline">
+		<rect x="568.379" y="757.287" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="569.379,757.287 568.379,757.287 568.379,762.482 569.379,762.482 		"/>
+	</g>
+	<g display="inline">
+		<rect x="349.379" y="757.287" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="350.379,757.287 349.379,757.287 349.379,762.482 350.379,762.482 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 579.6304 749.2383)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">N501Y</text>
+	
+		<text transform="matrix(1 0 0 1 138.2124 198.8867)" display="inline" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">del 69-70</text>
+	<g display="inline">
+		<rect x="153.879" y="696.096" fill="#FFFFFF" width="1" height="8.863"/>
+		<polygon points="154.879,696.096 153.879,696.096 153.879,704.959 154.879,704.959 		"/>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 153.2134 696.2207)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">del 69-70</text>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 199.5464 754.5527)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">(del 141-143)</text>
+	</g>
+	<text transform="matrix(1 0 0 1 331.5479 754.5527)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(Y265C)</text>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 219.8794 198.8867)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">del144</text>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 218.8794 696.8867)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">del144</text>
+	</g>
+	<text transform="matrix(1 0 0 1 572.8794 192.3867)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">N501Y</text>
+	<text transform="matrix(1 0 0 1 633.2134 192.3867)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">A570D</text>
+	<text transform="matrix(1 0 0 1 686.2139 192.3867)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+	<g display="inline">
+		<rect x="698.379" y="274.312" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="699.379,274.312 698.379,274.312 698.379,279.507 699.379,279.507 		"/>
+	</g>
+	<g display="inline">
+		<rect x="785.379" y="274.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="786.379,274.765 785.379,274.765 785.379,279.959 786.379,279.959 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 686.2139 264.9316)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+	<g display="inline">
+		<rect x="698.379" y="345.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="699.379,345.765 698.379,345.765 698.379,350.959 699.379,350.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="739.379" y="345.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="740.379,345.765 739.379,345.765 739.379,350.959 740.379,350.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="1111.379" y="345.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="1112.379,345.765 1111.379,345.765 1111.379,350.959 1112.379,350.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="1260.379" y="345.765" fill="#FFFFFF" width="1" height="5.195"/>
+		<polygon points="1261.379,345.765 1260.379,345.765 1260.379,350.959 1261.379,350.959 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 686.2139 336.3828)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+	
+		<rect x="83.379" y="591.959" display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="1273" height="11.927"/>
+	<g display="inline">
+		<rect x="698.379" y="586.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="699.379,586.765 698.379,586.765 698.379,591.959 699.379,591.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="97.379" y="586.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="98.379,586.765 97.379,586.765 97.379,591.959 98.379,591.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="236.379" y="586.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="237.379,586.765 236.379,586.765 236.379,591.959 237.379,591.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="342.379" y="586.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="343.379,586.765 342.379,586.765 342.379,591.959 343.379,591.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="536.379" y="586.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="537.379,586.765 536.379,586.765 536.379,591.959 537.379,591.959 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 686.2139 577.3828)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 90.8799 577.3828)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">S13I</text>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 224.2129 578.7168)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">W152C</text>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 318.2134 578.7168)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">(W258L)</text>
+	</g>
+	<text transform="matrix(1 0 0 1 522.8794 578.7168)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">L452R</text>
+	<g display="inline">
+		<rect x="536.379" y="872.456" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="537.379,872.456 536.379,872.456 536.379,877.65 537.379,877.65 		"/>
+	</g>
+	<g display="inline">
+		<rect x="568.379" y="872.456" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="569.379,872.456 568.379,872.456 568.379,877.65 569.379,877.65 		"/>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 522.2129 870.4063)" font-family="'MyriadPro-Regular'" font-size="15">L452R</text>
+	</g>
+	<g display="inline">
+		<rect x="536.379" y="924.123" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="537.379,924.123 536.379,924.123 536.379,929.317 537.379,929.317 		"/>
+	</g>
+	<g display="inline">
+		<rect x="574.379" y="924.123" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="575.379,924.123 574.379,924.123 574.379,929.317 575.379,929.317 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 522.2129 922.0742)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">L452Q</text>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 566.5464 922.0742)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">F490S</text>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 566.8794 870.4063)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">E484Q</text>
+	</g>
+	
+		<rect x="83.379" y="647.959" display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="1273" height="11.927"/>
+	<g display="inline">
+		<rect x="698.379" y="642.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="699.379,642.765 698.379,642.765 698.379,647.959 699.379,647.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="1260.379" y="642.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="1261.379,642.765 1260.379,642.765 1260.379,647.959 1261.379,647.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="568.379" y="642.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="569.379,642.765 568.379,642.765 568.379,647.959 569.379,647.959 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 686.2139 633.3828)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 1242.8799 633.3828)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">V1176F</text>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 555.2129 634.3828)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">E484K</text>
+	</g>
+	<g display="inline">
+		<rect x="568.379" y="700.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="569.379,700.765 568.379,700.765 568.379,705.959 569.379,705.959 		"/>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 555.2129 692.3828)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">E484K</text>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 529.2114 748.8828)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">(E484K)</text>
+	</g>
+	<text transform="matrix(1 0 0 1 300.8774 790.2168)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(del 243-244)</text>
+	<g display="inline">
+		<rect x="568.379" y="836.79" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="569.379,836.79 568.379,836.79 568.379,841.984 569.379,841.984 		"/>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 568.2124 850.4082)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">(E484K)</text>
+	</g>
+	<g display="inline">
+		<rect x="698.379" y="699.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="699.379,699.765 698.379,699.765 698.379,704.959 699.379,704.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="761.379" y="699.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="762.379,699.765 761.379,699.765 761.379,704.959 762.379,704.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="972.379" y="699.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="973.379,699.765 972.379,699.765 972.379,704.959 973.379,704.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="136.379" y="699.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="137.379,699.765 136.379,699.765 136.379,704.959 137.379,704.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="151.379" y="682.719" fill="#FFFFFF" width="1" height="22.834"/>
+		<polygon points="152.379,682.719 151.379,682.719 151.379,705.553 152.379,705.553 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 686.2139 690.3828)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 744.8799 690.3828)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">Q677H</text>
+	</g>
+	<text transform="matrix(1 0 0 1 962.8799 690.3828)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">F888L</text>
+	<text transform="matrix(1 0 0 1 101.8779 694.3828)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(Q52R)</text>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 148.5444 681.3828)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">A67V</text>
+	</g>
+	
+		<rect x="83.379" y="762.959" display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="142" height="11.927"/>
+	
+		<rect x="228.379" y="762.959" display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="100" height="11.927"/>
+	
+		<rect x="330.379" y="762.959" display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="1026" height="11.927"/>
+	<g display="inline">
+		<rect x="698.379" y="757.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="699.379,757.765 698.379,757.765 698.379,762.959 699.379,762.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="765.379" y="757.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="766.379,757.765 765.379,757.765 765.379,762.959 766.379,762.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="1176.379" y="757.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="1177.379,757.765 1176.379,757.765 1176.379,762.959 1177.379,762.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="1185.379" y="757.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="1186.379,757.765 1185.379,757.765 1185.379,762.959 1186.379,762.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="1260.379" y="757.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="1261.379,757.765 1260.379,757.765 1260.379,762.959 1261.379,762.959 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 686.2139 748.3828)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 756.7139 748.3828)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">P681H</text>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 756.7139 866.7168)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">P681R</text>
+	</g>
+	<text transform="matrix(1 0 0 1 1132.2119 751.3828)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">E1092K</text>
+	<text transform="matrix(1 0 0 1 1113.208 867.0488)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(Q1071H)</text>
+	<text transform="matrix(1 0 0 1 1176.71 867.0488)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(H1101D)</text>
+	<text transform="matrix(1 0 0 1 1181.7139 751.8828)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">H1101Y</text>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 1250.7139 751.8828)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">V1176F</text>
+	</g>
+	
+		<rect x="83.379" y="824.959" display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="1273" height="11.927"/>
+	<g display="inline">
+		<rect x="698.379" y="819.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="699.379,819.765 698.379,819.765 698.379,824.959 699.379,824.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="785.379" y="819.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="786.379,819.765 785.379,819.765 785.379,824.959 786.379,824.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="89.379" y="837.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="90.379,837.765 89.379,837.765 89.379,842.959 90.379,842.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="179.379" y="819.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="180.379,819.765 179.379,819.765 179.379,824.959 180.379,824.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="337.379" y="819.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="338.379,819.765 337.379,819.765 337.379,824.959 338.379,824.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="561.379" y="836.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="562.379,836.765 561.379,836.765 561.379,841.959 562.379,841.959 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 686.2139 810.3828)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+	<text transform="matrix(1 0 0 1 774.2139 810.3828)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(A701V)</text>
+	<text transform="matrix(1 0 0 1 172.8799 810.3828)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">T95I</text>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 182.2124 869.0508)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">(G142D)</text>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 142.1289 923.1348)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">GT75-76VI</text>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 235.5464 869.3848)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">(E154K)</text>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 330.8794 810.3828)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">D253G</text>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 518.4634 850.8828)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">(S477N)</text>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 84.3799 851.7168)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">L5F</text>
+	</g>
+	
+		<rect x="83.379" y="877.959" display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="1273" height="11.927"/>
+	<g display="inline">
+		<rect x="698.379" y="872.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="699.379,872.765 698.379,872.765 698.379,877.959 699.379,877.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="765.379" y="872.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="766.379,872.765 765.379,872.765 765.379,877.959 766.379,877.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="1155.379" y="872.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="1156.379,872.765 1155.379,872.765 1155.379,877.959 1156.379,877.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="1185.379" y="872.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="1186.379,872.765 1185.379,872.765 1185.379,877.959 1186.379,877.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="226.379" y="872.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="227.379,872.765 226.379,872.765 226.379,877.959 227.379,877.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="238.379" y="872.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="239.379,872.765 238.379,872.765 238.379,877.959 239.379,877.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="179.379" y="889.789" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="180.379,889.789 179.379,889.789 179.379,894.983 180.379,894.983 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 686.2139 867.3828)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+	<text transform="matrix(1 0 0 1 686.2139 921.0508)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+	<text transform="matrix(1 0 0 1 919.2119 921.0508)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(T859N)</text>
+	<text transform="matrix(1 0 0 1 172.7134 903.8828)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(T95I)</text>
+	
+		<rect x="337.379" y="928.959" display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="1019" height="11.927"/>
+	
+		<rect x="83.379" y="928.959" display="inline" fill="#FFFFFF" stroke="#000000" stroke-width="0.8877" stroke-miterlimit="10" width="247" height="11.927"/>
+	<g display="inline">
+		<rect x="698.379" y="923.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="699.379,923.765 698.379,923.765 698.379,928.959 699.379,928.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="943.379" y="923.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="944.379,923.765 943.379,923.765 943.379,928.959 944.379,928.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="332.379" y="923.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="333.379,923.765 332.379,923.765 332.379,928.959 333.379,928.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="160.007" y="924.393" fill="#FFFFFF" width="0.744" height="3.938"/>
+		<polygon points="161.379,923.765 159.379,923.765 159.379,928.959 161.379,928.959 		"/>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 309.2129 920.8828)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">del 247-252</text>
+	</g>
+	<text transform="matrix(1 0 0 1 738.8799 336.3828)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">H655Y</text>
+	<text transform="matrix(1 0 0 1 1096.8799 336.3828)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">T1027I</text>
+	<text transform="matrix(1 0 0 1 1022.5459 414.7139)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D950N</text>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 1249.2178 336.3828)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">V1176F</text>
+	</g>
+	<g display="inline">
+		<rect x="698.379" y="418.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="699.379,418.765 698.379,418.765 698.379,423.959 699.379,423.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="765.379" y="418.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="766.379,418.765 765.379,418.765 765.379,423.959 766.379,423.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="1034.379" y="418.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="1035.379,418.765 1034.379,418.765 1034.379,423.959 1035.379,423.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="103.379" y="418.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="104.379,418.765 103.379,418.765 103.379,423.959 104.379,423.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="179.379" y="436.289" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="180.379,436.289 179.379,436.289 179.379,441.483 180.379,441.483 		"/>
+	</g>
+	<g display="inline">
+		<rect x="226.379" y="436.289" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="227.379,436.289 226.379,436.289 226.379,441.483 227.379,441.483 		"/>
+	</g>
+	<g display="inline">
+		<rect x="306.379" y="436.289" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="307.379,436.289 306.379,436.289 306.379,441.483 307.379,441.483 		"/>
+	</g>
+	<g display="inline">
+		<rect x="501.379" y="436.289" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="502.379,436.289 501.379,436.289 501.379,441.483 502.379,441.483 		"/>
+	</g>
+	<g display="inline">
+		<rect x="342.379" y="436.289" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="343.379,436.289 342.379,436.289 342.379,441.483 343.379,441.483 		"/>
+	</g>
+	<g display="inline">
+		<rect x="536.379" y="418.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="537.379,418.765 536.379,418.765 536.379,423.959 537.379,423.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="562.379" y="418.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="563.379,418.765 562.379,418.765 562.379,423.959 563.379,423.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="240.879" y="409.386" fill="#FFFFFF" width="1" height="14.573"/>
+		<polygon points="241.879,409.386 240.879,409.386 240.879,423.959 241.879,423.959 		"/>
+	</g>
+	<g display="inline">
+		<rect x="242.379" y="418.765" fill="#FFFFFF" width="1" height="5.194"/>
+		<polygon points="243.379,418.765 242.379,418.765 242.379,423.959 243.379,423.959 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 686.2139 409.3809)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 749.8799 411.3809)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">P681R</text>
+	</g>
+	<text transform="matrix(1 0 0 1 515.8789 416.7598)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">L452R</text>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 560.2134 416.7598)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">T478K</text>
+	</g>
+	<text transform="matrix(1 0 0 1 774.8799 269.9316)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">A701V</text>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 745.2119 193.3867)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">P681H</text>
+	</g>
+	<text transform="matrix(1 0 0 1 796.5479 192.3867)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">T716I</text>
+	<text transform="matrix(1 0 0 1 1057.5479 192.3867)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">S982A</text>
+	<text transform="matrix(1 0 0 1 1186.8818 192.3867)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D1118H</text>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 208.8794 408.0928)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">del 156-157</text>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 245.5444 419.7598)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="15">F158G</text>
+	</g>
+	<text transform="matrix(1 0 0 1 256.3794 110.3867)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">NTD</text>
+	<text transform="matrix(1 0 0 1 516.3794 109.3867)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">RBD</text>
+	<text transform="matrix(1 0 0 1 438.3794 66.3867)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">S1</text>
+	<text transform="matrix(1 0 0 1 1031.3799 66.3867)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">S2</text>
+	<text transform="matrix(1 0 0 1 738.3779 109.3867)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">Cleavage</text>
+	<text transform="matrix(1 0 0 1 900.5889 98.0518)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">Fusion</text>
+	<text transform="matrix(1 0 0 1 893.8926 116.0518)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">peptides</text>
+	<text transform="matrix(1 0 0 1 1000.1377 96.0518)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">Heptad</text>
+	<text transform="matrix(1 0 0 1 997.6104 114.0518)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">repeat 1</text>
+	<text transform="matrix(1 0 0 1 1240.8018 96.0518)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">Heptad</text>
+	<text transform="matrix(1 0 0 1 1238.2754 114.0518)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">repeat 2</text>
+	<text transform="matrix(1 0 0 1 1296.0439 96.0518)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">Trans-</text>
+	<text transform="matrix(1 0 0 1 1296.0439 114.0518)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">membrane</text>
+	<g display="inline">
+		<line fill="none" x1="84.871" y1="71.386" x2="762.871" y2="71.386"/>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="91.931" y1="71.386" x2="755.81" y2="71.386"/>
+			<g>
+				<polygon points="84.871,71.386 94.82,75.452 92.459,71.386 94.82,67.322 				"/>
+			</g>
+			<g>
+				<polygon points="762.871,71.386 752.921,75.452 755.282,71.386 752.921,67.322 				"/>
+			</g>
+		</g>
+	</g>
+	<g display="inline">
+		<line fill="none" x1="764.379" y1="71.386" x2="1353.379" y2="71.386"/>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="771.44" y1="71.386" x2="1346.319" y2="71.386"/>
+			<g>
+				<polygon points="764.379,71.386 774.329,75.452 771.967,71.386 774.329,67.322 				"/>
+			</g>
+			<g>
+				<polygon points="1353.379,71.386 1343.43,75.452 1345.792,71.386 1343.43,67.322 				"/>
+			</g>
+		</g>
+	</g>
+	
+		<line display="inline" fill="none" stroke="#EAAB2D" stroke-width="3" stroke-miterlimit="10" x1="101.379" y1="350.886" x2="101.379" y2="362.386"/>
+	<polyline display="inline" fill="none" stroke="#000000" stroke-miterlimit="10" points="235.046,613.886 237.398,613.886 
+		237.398,603.886 	"/>
+	<polyline display="inline" fill="none" stroke="#000000" stroke-miterlimit="10" points="220.379,603.886 220.379,613.886 
+		223.027,613.886 	"/>
+	<g display="inline">
+		<rect x="225.379" y="757.265" fill="#FFFFFF" width="3" height="5.194"/>
+		<polygon points="228.379,757.265 225.379,757.265 225.379,762.459 228.379,762.459 		"/>
+	</g>
+</g>
+<g id="glyco" display="none">
+	<polygon display="inline" fill="#AF92F7" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="102.132,282.371 
+		103.292,284.72 105.884,285.097 104.008,286.926 104.451,289.508 102.132,288.289 99.813,289.508 100.256,286.926 98.379,285.097 
+		100.972,284.72 	"/>
+	<polygon display="inline" fill="#AF92F7" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="146.132,282.371 
+		147.292,284.72 149.884,285.097 148.008,286.926 148.451,289.508 146.132,288.289 143.813,289.508 144.256,286.926 
+		142.379,285.097 144.972,284.72 	"/>
+	<polygon display="inline" fill="#AF92F7" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="159.132,282.371 
+		160.292,284.72 162.884,285.097 161.008,286.926 161.451,289.508 159.132,288.289 156.813,289.508 157.256,286.926 
+		155.379,285.097 157.972,284.72 	"/>
+	<polygon display="inline" fill="#AF92F7" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="207.132,282.371 
+		208.292,284.72 210.884,285.097 209.008,286.926 209.451,289.508 207.132,288.289 204.813,289.508 205.256,286.926 
+		203.379,285.097 205.972,284.72 	"/>
+	<polygon display="inline" fill="#AF92F7" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="234.132,282.371 
+		235.292,284.72 237.884,285.097 236.008,286.926 236.451,289.508 234.132,288.289 231.813,289.508 232.256,286.926 
+		230.379,285.097 232.972,284.72 	"/>
+	<polygon display="inline" fill="#AF92F7" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="250.132,282.371 
+		251.292,284.72 253.884,285.097 252.008,286.926 252.451,289.508 250.132,288.289 247.813,289.508 248.256,286.926 
+		246.379,285.097 248.972,284.72 	"/>
+	<polygon display="inline" fill="#AF92F7" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="319.132,282.371 
+		320.292,284.72 322.884,285.097 321.008,286.926 321.451,289.508 319.132,288.289 316.813,289.508 317.256,286.926 
+		315.379,285.097 317.972,284.72 	"/>
+	<polygon display="inline" fill="#AF92F7" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="367.132,282.371 
+		368.292,284.72 370.884,285.097 369.008,286.926 369.451,289.508 367.132,288.289 364.813,289.508 365.256,286.926 
+		363.379,285.097 365.972,284.72 	"/>
+	<polygon display="inline" fill="#D9EF3F" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" points="408.132,282.371 
+		409.292,284.72 411.884,285.097 410.008,286.926 410.451,289.508 408.132,288.289 405.813,289.508 406.256,286.926 
+		404.379,285.097 406.972,284.72 	"/>
+	<polygon display="inline" fill="#D9EF3F" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" points="410.132,282.371 
+		411.292,284.72 413.884,285.097 412.008,286.926 412.451,289.508 410.132,288.289 407.813,289.508 408.256,286.926 
+		406.379,285.097 408.972,284.72 	"/>
+	<polygon display="inline" fill="#AF92F7" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="416.132,282.371 
+		417.292,284.72 419.884,285.097 418.008,286.926 418.451,289.508 416.132,288.289 413.813,289.508 414.256,286.926 
+		412.379,285.097 414.972,284.72 	"/>
+	<polygon display="inline" fill="#AF92F7" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="428.132,282.371 
+		429.292,284.72 431.884,285.097 430.008,286.926 430.451,289.508 428.132,288.289 425.813,289.508 426.256,286.926 
+		424.379,285.097 426.972,284.72 	"/>
+	<polygon display="inline" fill="#AF92F7" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="688.131,282.371 
+		689.292,284.72 691.884,285.097 690.008,286.926 690.452,289.508 688.131,288.289 685.813,289.508 686.256,286.926 
+		684.379,285.097 686.972,284.72 	"/>
+	<polygon display="inline" fill="#AF92F7" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="704.131,282.371 
+		705.292,284.72 707.884,285.097 706.008,286.926 706.452,289.508 704.131,288.289 701.813,289.508 702.256,286.926 
+		700.379,285.097 702.972,284.72 	"/>
+	<polygon display="inline" fill="#AF92F7" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="742.131,282.371 
+		743.292,284.72 745.884,285.097 744.008,286.926 744.452,289.508 742.131,288.289 739.813,289.508 740.256,286.926 
+		738.379,285.097 740.972,284.72 	"/>
+	<polygon display="inline" fill="#AF92F7" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="794.131,282.371 
+		795.292,284.72 797.884,285.097 796.008,286.926 796.452,289.508 794.131,288.289 791.813,289.508 792.256,286.926 
+		790.379,285.097 792.972,284.72 	"/>
+	<polygon display="inline" fill="#AF92F7" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="802.131,282.371 
+		803.292,284.72 805.884,285.097 804.008,286.926 804.452,289.508 802.131,288.289 799.813,289.508 800.256,286.926 
+		798.379,285.097 800.972,284.72 	"/>
+	<polygon display="inline" fill="#AF92F7" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="886.131,282.371 
+		887.292,284.72 889.884,285.097 888.008,286.926 888.452,289.508 886.131,288.289 883.813,289.508 884.256,286.926 
+		882.379,285.097 884.972,284.72 	"/>
+	<polygon display="inline" fill="#AF92F7" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="1183.131,282.371 
+		1184.292,284.72 1186.884,285.097 1185.008,286.926 1185.452,289.508 1183.131,288.289 1180.813,289.508 1181.256,286.926 
+		1179.379,285.097 1181.972,284.72 	"/>
+	<polygon display="inline" fill="#AF92F7" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="1219.131,282.371 
+		1220.292,284.72 1222.884,285.097 1221.008,286.926 1221.452,289.508 1219.131,288.289 1216.813,289.508 1217.256,286.926 
+		1215.379,285.097 1217.972,284.72 	"/>
+	<polygon display="inline" fill="#AF92F7" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="1243.131,282.371 
+		1244.292,284.72 1246.884,285.097 1245.008,286.926 1245.452,289.508 1243.131,288.289 1240.813,289.508 1241.256,286.926 
+		1239.379,285.097 1241.972,284.72 	"/>
+	<polygon display="inline" fill="#AF92F7" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="1258.131,282.479 
+		1259.292,284.757 1261.884,285.123 1260.008,286.896 1260.452,289.399 1258.131,288.217 1255.813,289.399 1256.256,286.896 
+		1254.379,285.123 1256.972,284.757 	"/>
+	<polygon display="inline" fill="#AF92F7" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="1278.131,282.479 
+		1279.292,284.757 1281.884,285.123 1280.008,286.896 1280.452,289.399 1278.131,288.217 1275.813,289.399 1276.256,286.896 
+		1274.379,285.123 1276.972,284.757 	"/>
+</g>
+<g id="autres" display="none">
+	<text transform="matrix(1 0 0 1 208.3799 1078.3887)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(del144)</text>
+	<text transform="matrix(1 0 0 1 274.8799 1080.8887)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(A243H)</text>
+	<text transform="matrix(1 0 0 1 36.4014 1058.7676)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">C.1.2</text>
+	<g display="inline">
+		<rect x="229.823" y="1048.382" fill="#FFFFFF" width="98.111" height="11.038"/>
+		<path d="M327.492,1048.826v10.15h-97.225v-10.15H327.492 M328.379,1047.938h-99v11.928h99V1047.938L328.379,1047.938z"/>
+	</g>
+	<g display="inline">
+		<rect x="330.823" y="1048.382" fill="#FFFFFF" width="1025.112" height="11.038"/>
+		<path d="M1355.492,1048.826v10.15H331.267v-10.15H1355.492 M1356.379,1047.938h-1026v11.928h1026V1047.938L1356.379,1047.938z"/>
+	</g>
+	<g display="inline">
+		<rect x="329.823" y="1060.659" fill="#FFFFFF" width="0.111" height="19.513"/>
+		<polygon points="330.379,1060.214 329.379,1060.214 329.379,1080.616 330.379,1080.616 		"/>
+	</g>
+	<g display="inline">
+		<rect x="83.823" y="1048.382" fill="#FFFFFF" width="144.112" height="11.038"/>
+		<path d="M227.492,1048.826v10.15H84.267v-10.15H227.492 M228.379,1047.938h-145v11.928h145V1047.938L228.379,1047.938z"/>
+	</g>
+	<g display="inline">
+		<rect x="228.823" y="1060.309" fill="#FFFFFF" width="0.112" height="4.213"/>
+		<polygon points="229.379,1059.865 228.379,1059.865 228.379,1064.965 229.379,1064.965 		"/>
+	</g>
+	<g display="inline">
+		<rect x="327.823" y="1060.309" fill="#FFFFFF" width="0.111" height="4.213"/>
+		<polygon points="328.379,1059.865 327.379,1059.865 327.379,1064.965 328.379,1064.965 		"/>
+	</g>
+	<g display="inline">
+		<rect x="698.379" y="1042.744" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="699.379,1042.744 698.379,1042.744 698.379,1047.938 699.379,1047.938 		"/>
+	</g>
+	<g display="inline">
+		<rect x="739.379" y="1042.744" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="740.379,1042.744 739.379,1042.744 739.379,1047.938 740.379,1047.938 		"/>
+	</g>
+	<g display="inline">
+		<rect x="800.379" y="1042.744" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="801.379,1042.744 800.379,1042.744 800.379,1047.938 801.379,1047.938 		"/>
+	</g>
+	<g display="inline">
+		<rect x="93.379" y="1042.744" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="94.379,1042.744 93.379,1042.744 93.379,1047.938 94.379,1047.938 		"/>
+	</g>
+	<g display="inline">
+		<rect x="109.379" y="1059.789" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="110.379,1059.789 109.379,1059.789 109.379,1064.983 110.379,1064.983 		"/>
+	</g>
+	<g display="inline">
+		<rect x="220.379" y="1042.744" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="221.379,1042.744 220.379,1042.744 220.379,1047.938 221.379,1047.938 		"/>
+	</g>
+	<g display="inline">
+		<rect x="274.379" y="1042.744" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="275.379,1042.744 274.379,1042.744 274.379,1047.938 275.379,1047.938 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 686.2139 1033.3633)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D614G</text>
+	<text transform="matrix(1 0 0 1 734.2139 1033.3633)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">H655Y</text>
+	<text transform="matrix(1 0 0 1 785.7139 1033.3633)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">T716I</text>
+	<text transform="matrix(1 0 0 1 86.3799 1037.3633)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">P9L</text>
+	<text transform="matrix(1 0 0 1 89.2129 1079.6953)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(P25L)</text>
+	<text transform="matrix(1 0 0 1 199.2139 1041.1973)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">C136F</text>
+	<text transform="matrix(1 0 0 1 250.3794 1042.1973)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">R190S</text>
+	<g display="inline">
+		<rect x="299.379" y="1042.744" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="300.379,1042.744 299.379,1042.744 299.379,1047.938 300.379,1047.938 		"/>
+	</g>
+	<g display="inline">
+		<rect x="533.379" y="1042.744" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="534.379,1042.744 533.379,1042.744 533.379,1047.938 534.379,1047.938 		"/>
+	</g>
+	<g display="inline">
+		<rect x="568.379" y="1030.492" fill="#FFFFFF" width="1" height="17.395"/>
+		<polygon points="569.379,1030.492 568.379,1030.492 568.379,1047.886 569.379,1047.886 		"/>
+	</g>
+	<g display="inline">
+		<rect x="585.379" y="1042.744" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="586.379,1042.744 585.379,1042.744 585.379,1047.938 586.379,1047.938 		"/>
+	</g>
+	<g display="inline">
+		<rect x="562.379" y="1059.289" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="563.379,1059.289 562.379,1059.289 562.379,1064.483 563.379,1064.483 		"/>
+	</g>
+	<g display="inline">
+		<rect x="665.379" y="1059.289" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="666.379,1059.289 665.379,1059.289 665.379,1064.483 666.379,1064.483 		"/>
+	</g>
+	<g display="inline">
+		<rect x="763.379" y="1059.289" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="764.379,1059.289 763.379,1059.289 763.379,1064.483 764.379,1064.483 		"/>
+	</g>
+	<g display="inline">
+		<rect x="943.379" y="1059.289" fill="#FFFFFF" width="1" height="5.193"/>
+		<polygon points="944.379,1059.289 943.379,1059.289 943.379,1064.483 944.379,1064.483 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 292.3789 1041.6973)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">D215G</text>
+	<text transform="matrix(1 0 0 1 498.3789 1038.6953)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">Y449H</text>
+	<text transform="matrix(1 0 0 1 548.8789 1025.6953)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">E484K</text>
+	<text transform="matrix(1 0 0 1 580.8789 1039.6953)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">N501Y</text>
+	<text transform="matrix(1 0 0 1 545.3789 1076.1953)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(T478K)</text>
+	<text transform="matrix(1 0 0 1 641.8794 1076.6953)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(L581F)</text>
+	<text transform="matrix(1 0 0 1 738.3799 1076.6953)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(N679K)</text>
+	<text transform="matrix(1 0 0 1 921.3799 1076.6953)" display="inline" font-family="'MyriadPro-Regular'" font-size="15">(T859N)</text>
+</g>
+</svg>
