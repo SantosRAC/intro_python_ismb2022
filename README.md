@@ -5,19 +5,31 @@ Tutorial to be presented online in the [Intelligent Systems for Molecular Biolog
 
 ## Speakers
 
- * Renato Augusto Corrêa dos Santos, PhD
- * Hemanoel Passarelli Araujo (PhD candidate)
- * Pedro de Carvalho Braga Ilidio Silva (master student)
- * Vinícius Henrique Franceschini dos Santos (undergraduate student)
-
+ * Pedro de Carvalho Braga Ilidio Silva (master student) (@pedroilidio)
+ * Hemanoel Passarelli Araujo (PhD candidate) (@Passarelli-bio)
+ * Vinícius Henrique Franceschini dos Santos (undergraduate student) (@vhfsantos)
+ * Renato Augusto Corrêa dos Santos, PhD (@SantosRAC)
 
 ## Expected audience
 
-Researchers at different education levels with interest in learning programming skills for bioinformatics; level of programming skills: beginners.
+Researchers at different education levels with interest in learning programming skills for bioinformatics.
+
+Level of programming skills: ***beginners***.
 
 
 ## Learning Objectives
 
- * Introduce Google Colab digital notebooks;
- * Present the basic logic and data structures in Python;
+ * Introduce Google Colab digital notebooks
+ * Present the basic logic and data structures in Python
  * Provide hands-on experience in analyzing biological sequences using Biopython
+
+
+## Material available in this repository
+
+ * Folder "Digital_Notebooks"
+   * **ISMB_2022_Python.ipynb**: 
+   * **Tutorial_JupyterNotebook_Colab.ipynb**: 
+ * Folder "Data"
+   * .
+ * Folder "Initial_Proposal"
+   * **ISMB 2022 - Tutorial Proposal.pdf**: PDF with the proposal submitted to ISMB organization.
