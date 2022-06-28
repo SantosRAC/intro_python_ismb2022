@@ -27,8 +27,8 @@ Level of programming skills: ***beginners***.
 ## Material available in this repository
 
  * Folder "Digital_Notebooks"
-   * **ISMB_2022_Python.ipynb**: 
-   * **Tutorial_JupyterNotebook_Colab.ipynb**: 
+   * **Tutorial_JupyterNotebook_Colab.ipynb**: basic introduction to Colab and overview of its main functionalities.
+   * **ISMB_2022_Python.ipynb**: complete notebook with the hands-on activity proposed to our [ISMB 22 tutorial: Introduction to Python programming for bioscientists](https://www.iscb.org/ismb2022-program/tutorials#vt1).
  * Folder "Data"
    * .
  * Folder "Initial_Proposal"
