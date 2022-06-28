@@ -5,10 +5,10 @@ Tutorial to be presented online in the [Intelligent Systems for Molecular Biolog
 
 ## Speakers
 
- * Pedro de Carvalho Braga Ilidio Silva (master student) (@pedroilidio)
- * Hemanoel Passarelli Araujo (PhD candidate) (@Passarelli-bio)
- * Vinícius Henrique Franceschini dos Santos (undergraduate student) (@vhfsantos)
- * Renato Augusto Corrêa dos Santos, PhD (@SantosRAC)
+ * Pedro de Carvalho Braga Ilidio Silva (master student) - [@pedroilidio](https://github.com/pedroilidio)
+ * Hemanoel Passarelli Araujo (PhD candidate) [@Passarelli-bio](https://github.com/Passarelli-bio)
+ * Vinícius Henrique Franceschini dos Santos (undergraduate student) [@vhfsantos](https://github.com/vhfsantos)
+ * Renato Augusto Corrêa dos Santos, PhD [@SantosRAC](https://github.com/SantosRAC)
 
 ## Expected audience
 
