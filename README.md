@@ -33,7 +33,8 @@ Level of programming skills: ***beginners***.
    * **Wuhan-Hu-1_19A.fasta**: FASTA file containing a spike protein sequence of the reference strain.
    * **spike_proteins.fasta**: contains additional FASTA sequences, that correspond to other virus variants.
    * **clustal_spike_msa.txt**: a multiple sequence alignment (MSA) of the spike proteins to explore mutations.
-   * **envelope_protein.fasta**: sequence of envelope protein.
-   * **nucleocapsid_phosphoprotein.fasta**: sequence of nucleocapsid phosphoprotein.
+   * **envelope_protein.fasta**: FASTA file containing a sequence of envelope protein.
+   * **surface_glycoprotein.fasta**: FASTA file containing a sequence of surface glycoprotein.
+   * **nucleocapsid_phosphoprotein.fasta**: FASTA file containing a sequence of nucleocapsid phosphoprotein.
  * Folder "Initial_Proposal"
    * **ISMB 2022 - Tutorial Proposal.pdf**: PDF with the proposal submitted to ISMB organization.
