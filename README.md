@@ -30,6 +30,8 @@ Level of programming skills: ***beginners***.
    * **Tutorial_JupyterNotebook_Colab.ipynb**: basic introduction to Colab and overview of its main functionalities.
    * **ISMB_2022_Python.ipynb**: complete notebook with the hands-on activity proposed to our [ISMB 22 tutorial: Introduction to Python programming for bioscientists](https://www.iscb.org/ismb2022-program/tutorials#vt1).
  * Folder "Data"
-   * .
+   * **clustal_spike_msa.txt**: 
+   * **envelope_protein.fasta**: 
+   * **nucleocapsid_phosphoprotein.fasta**: 
  * Folder "Initial_Proposal"
    * **ISMB 2022 - Tutorial Proposal.pdf**: PDF with the proposal submitted to ISMB organization.
