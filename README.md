@@ -38,3 +38,7 @@ Level of programming skills: ***beginners***.
    * **nucleocapsid_phosphoprotein.fasta**: FASTA file containing a sequence of nucleocapsid phosphoprotein.
  * Folder "Initial_Proposal"
    * **ISMB 2022 - Tutorial Proposal.pdf**: PDF with the proposal submitted to ISMB organization.
+
+## Release history
+
+ * v1.0.0 - initial version (sent to Steven Learn on June 29)
