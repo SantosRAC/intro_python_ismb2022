@@ -30,8 +30,10 @@ Level of programming skills: ***beginners***.
    * **Tutorial_JupyterNotebook_Colab.ipynb**: basic introduction to Colab and overview of its main functionalities.
    * **ISMB_2022_Python.ipynb**: complete notebook with the hands-on activity proposed to our [ISMB 22 tutorial: Introduction to Python programming for bioscientists](https://www.iscb.org/ismb2022-program/tutorials#vt1).
  * Folder "Data"
-   * **clustal_spike_msa.txt**: 
-   * **envelope_protein.fasta**: 
-   * **nucleocapsid_phosphoprotein.fasta**: 
+   * **Wuhan-Hu-1_19A.fasta**: FASTA file containing a spike protein sequence of the reference strain.
+   * **spike_proteins.fasta**: contains additional FASTA sequences, that correspond to other virus variants.
+   * **clustal_spike_msa.txt**: a multiple sequence alignment (MSA) of the spike proteins to explore mutations.
+   * **envelope_protein.fasta**: sequence of envelope protein.
+   * **nucleocapsid_phosphoprotein.fasta**: sequence of nucleocapsid phosphoprotein.
  * Folder "Initial_Proposal"
    * **ISMB 2022 - Tutorial Proposal.pdf**: PDF with the proposal submitted to ISMB organization.
