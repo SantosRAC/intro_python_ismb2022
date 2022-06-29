@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Correa dos Santos"
+  given-names: "Renato Augusto"
+  orcid: "https://orcid.org/0000-0003-0826-5479"
+- family-names: "Ilídio Silva"
+  given-names: "Pedro de Carvalho Braga"
+  orcid: "https://orcid.org/0000-0002-5750-0204"
+- family-names: "Passarelli Araujo"
+  given-names: "Hemanoel"
+- family-names: "Franceschini dos Santos"
+  given-names: "Vinícius Henrique"
+title: "intro_python_ismb2022"
+version: 1.0.0
+doi: 10.5281/zenodo.6779795
+date-released: 2022-06-29
+url: "https://github.com/SantosRAC/intro_python_ismb2022"
