@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/453710894.svg)](https://zenodo.org/badge/latestdoi/453710894)
+
 # TUTORIAL: Introduction to Python programming for bioscientists
 
 Tutorial to be presented online in the [Intelligent Systems for Molecular Biology (ISMB) 2022 edition](https://www.iscb.org/ismb2022), including hands-on activities and exercises.
